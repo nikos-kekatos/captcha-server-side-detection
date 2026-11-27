@@ -1,0 +1,43 @@
+split 0 14s human FPR {10: 0.0065, 20: 0.005, 30: 0.0045, 50: 0.0085, 100: 0.0065}
+split 1 23s human FPR {10: 0.003, 20: 0.02, 30: 0.024, 50: 0.018, 100: 0.021}
+split 2 32s human FPR {10: 0.006, 20: 0.006, 30: 0.012, 50: 0.011, 100: 0.006}
+split 3 40s human FPR {10: 0.0, 20: 0.004, 30: 0.002, 50: 0.006, 100: 0.003}
+split 4 49s human FPR {10: 0.009, 20: 0.008, 30: 0.008, 50: 0.006, 100: 0.016}
+split 5 63s human FPR {10: 0.006, 20: 0.008, 30: 0.022, 50: 0.01, 100: 0.014}
+split 6 73s human FPR {10: 0.011, 20: 0.005, 30: 0.007, 50: 0.009, 100: 0.017}
+split 7 82s human FPR {10: 0.004, 20: 0.002, 30: 0.011, 50: 0.009, 100: 0.012}
+split 8 91s human FPR {10: 0.005, 20: 0.006, 30: 0.007, 50: 0.007, 100: 0.006}
+split 9 102s human FPR {10: 0.001, 20: 0.005, 30: 0.004, 50: 0.002, 100: 0.003}
+split 10 111s human FPR {10: 0.004, 20: 0.004, 30: 0.008, 50: 0.009, 100: 0.005}
+split 11 120s human FPR {10: 0.01, 20: 0.004, 30: 0.005, 50: 0.007, 100: 0.007}
+split 12 130s human FPR {10: 0.013, 20: 0.012, 30: 0.007, 50: 0.01, 100: 0.013}
+split 13 143s human FPR {10: 0.008, 20: 0.014, 30: 0.008, 50: 0.01, 100: 0.008}
+split 14 153s human FPR {10: 0.008, 20: 0.005, 30: 0.012, 50: 0.006, 100: 0.01}
+split 15 166s human FPR {10: 0.006, 20: 0.005, 30: 0.008, 50: 0.008, 100: 0.005}
+split 16 184s human FPR {10: 0.004, 20: 0.003, 30: 0.006, 50: 0.005, 100: 0.009}
+split 17 196s human FPR {10: 0.004, 20: 0.003, 30: 0.003, 50: 0.005, 100: 0.006}
+split 18 209s human FPR {10: 0.004, 20: 0.003, 30: 0.006, 50: 0.01, 100: 0.007}
+split 19 221s human FPR {10: 0.008, 20: 0.01, 30: 0.01, 50: 0.011, 100: 0.015}
+misspec 20 nominal 0.006 {'P1': 3, 'P2': 4, 'P3': 2, 'P4': 0, 'P5': 0, 'P6': 3}
+misspec 20 sigma 0.32 0.004 {'P1': 0, 'P2': 1, 'P3': 7, 'P4': 0, 'P5': 0, 'P6': 0}
+misspec 20 sigma 0.48 0.0305 {'P1': 9, 'P2': 7, 'P3': 2, 'P4': 0, 'P5': 0, 'P6': 44}
+misspec 20 accuracy mean 0.71 0.007 {'P1': 2, 'P2': 4, 'P3': 3, 'P4': 0, 'P5': 0, 'P6': 5}
+misspec 20 accuracy mean 0.93 0.0075 {'P1': 4, 'P2': 7, 'P3': 2, 'P4': 0, 'P5': 0, 'P6': 2}
+misspec 20 accuracy homogeneous 0.0065 {'P1': 3, 'P2': 7, 'P3': 0, 'P4': 0, 'P5': 0, 'P6': 3}
+misspec 20 accuracy SD 0.15 0.0065 {'P1': 3, 'P2': 5, 'P3': 3, 'P4': 0, 'P5': 0, 'P6': 2}
+misspec 20 gap 60 s 0.006 {'P1': 3, 'P2': 4, 'P3': 2, 'P4': 0, 'P5': 0, 'P6': 3}
+misspec 20 gap 1800 s 0.006 {'P1': 3, 'P2': 4, 'P3': 2, 'P4': 0, 'P5': 0, 'P6': 3}
+misspec 20 pooled latencies 0.287 {'P1': 0, 'P2': 0, 'P3': 0, 'P4': 0, 'P5': 0, 'P6': 574}
+misspec 50 nominal 0.009 {'P1': 3, 'P2': 3, 'P3': 3, 'P4': 4, 'P5': 0, 'P6': 5}
+misspec 50 sigma 0.32 0.0065 {'P1': 0, 'P2': 0, 'P3': 9, 'P4': 4, 'P5': 0, 'P6': 0}
+misspec 50 sigma 0.48 0.069 {'P1': 9, 'P2': 4, 'P3': 3, 'P4': 3, 'P5': 0, 'P6': 119}
+misspec 50 accuracy mean 0.71 0.0075 {'P1': 3, 'P2': 4, 'P3': 2, 'P4': 2, 'P5': 0, 'P6': 4}
+misspec 50 accuracy mean 0.93 0.008 {'P1': 4, 'P2': 2, 'P3': 3, 'P4': 3, 'P5': 0, 'P6': 4}
+misspec 50 accuracy homogeneous 0.0095 {'P1': 1, 'P2': 3, 'P3': 5, 'P4': 6, 'P5': 0, 'P6': 4}
+misspec 50 accuracy SD 0.15 0.0055 {'P1': 1, 'P2': 2, 'P3': 4, 'P4': 1, 'P5': 0, 'P6': 3}
+misspec 50 gap 60 s 1.0 {'P1': 1, 'P2': 2, 'P3': 2, 'P4': 1995, 'P5': 0, 'P6': 0}
+misspec 50 gap 1800 s 0.007 {'P1': 3, 'P2': 3, 'P3': 3, 'P4': 0, 'P5': 0, 'P6': 5}
+misspec 50 pooled latencies 0.673 {'P1': 0, 'P2': 0, 'P3': 2, 'P4': 6, 'P5': 0, 'P6': 1338}
+homog 20 {'Human, homogeneous (as calibrated)': 0.0105, 'Human, heterogeneous SD 0.10': 0.004, 'Person mimic, full accuracy': 0.008, 'Person mimic, human accuracy': 0.005, 'Person mimic, E2 solver accuracy': 0.008}
+homog 50 {'Human, homogeneous (as calibrated)': 0.0055, 'Human, heterogeneous SD 0.10': 0.095, 'Person mimic, full accuracy': 0.9305, 'Person mimic, human accuracy': 0.0935, 'Person mimic, E2 solver accuracy': 0.01}
+homog 100 {'Human, homogeneous (as calibrated)': 0.0095, 'Human, heterogeneous SD 0.10': 0.1535, 'Person mimic, full accuracy': 1.0, 'Person mimic, human accuracy': 0.1525, 'Person mimic, E2 solver accuracy': 0.0135}

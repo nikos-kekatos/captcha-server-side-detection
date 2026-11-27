@@ -1,0 +1,180 @@
+{
+ "C": [
+  {
+   "variant": "P1-P6",
+   "fault": "none",
+   "profile": "Human, held-out",
+   "k": 633,
+   "n": 20000,
+   "rate": 0.03165
+  },
+  {
+   "variant": "P1-P6",
+   "fault": "none",
+   "profile": "CRNN, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0
+  },
+  {
+   "variant": "P1-P6",
+   "fault": "none",
+   "profile": "Pooled mimic, full accuracy",
+   "k": 11585,
+   "n": 20000,
+   "rate": 0.57925
+  },
+  {
+   "variant": "P1-P6",
+   "fault": "missing",
+   "profile": "Human, held-out",
+   "k": 666,
+   "n": 20000,
+   "rate": 0.0333
+  },
+  {
+   "variant": "P1-P6",
+   "fault": "missing",
+   "profile": "CRNN, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0
+  },
+  {
+   "variant": "P1-P6",
+   "fault": "missing",
+   "profile": "Pooled mimic, full accuracy",
+   "k": 11600,
+   "n": 20000,
+   "rate": 0.58
+  },
+  {
+   "variant": "P1-P6",
+   "fault": "delay",
+   "profile": "Human, held-out",
+   "k": 649,
+   "n": 20000,
+   "rate": 0.03245
+  },
+  {
+   "variant": "P1-P6",
+   "fault": "delay",
+   "profile": "CRNN, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0
+  },
+  {
+   "variant": "P1-P6",
+   "fault": "delay",
+   "profile": "Pooled mimic, full accuracy",
+   "k": 11652,
+   "n": 20000,
+   "rate": 0.5826
+  },
+  {
+   "variant": "P1-P6",
+   "fault": "shared2",
+   "profile": "Human, held-out",
+   "k": 15930,
+   "n": 20000,
+   "rate": 0.7965
+  },
+  {
+   "variant": "P1-P6",
+   "fault": "shared5",
+   "profile": "Human, held-out",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0
+  },
+  {
+   "variant": "P1-P5",
+   "fault": "none",
+   "profile": "Human, held-out",
+   "k": 158,
+   "n": 20000,
+   "rate": 0.0079
+  },
+  {
+   "variant": "P1-P5",
+   "fault": "none",
+   "profile": "CRNN, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0
+  },
+  {
+   "variant": "P1-P5",
+   "fault": "none",
+   "profile": "Pooled mimic, full accuracy",
+   "k": 42,
+   "n": 20000,
+   "rate": 0.0021
+  },
+  {
+   "variant": "P1-P5",
+   "fault": "missing",
+   "profile": "Human, held-out",
+   "k": 167,
+   "n": 20000,
+   "rate": 0.00835
+  },
+  {
+   "variant": "P1-P5",
+   "fault": "missing",
+   "profile": "CRNN, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0
+  },
+  {
+   "variant": "P1-P5",
+   "fault": "missing",
+   "profile": "Pooled mimic, full accuracy",
+   "k": 15,
+   "n": 20000,
+   "rate": 0.00075
+  },
+  {
+   "variant": "P1-P5",
+   "fault": "delay",
+   "profile": "Human, held-out",
+   "k": 158,
+   "n": 20000,
+   "rate": 0.0079
+  },
+  {
+   "variant": "P1-P5",
+   "fault": "delay",
+   "profile": "CRNN, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0
+  },
+  {
+   "variant": "P1-P5",
+   "fault": "delay",
+   "profile": "Pooled mimic, full accuracy",
+   "k": 37,
+   "n": 20000,
+   "rate": 0.00185
+  },
+  {
+   "variant": "P1-P5",
+   "fault": "shared2",
+   "profile": "Human, held-out",
+   "k": 14136,
+   "n": 20000,
+   "rate": 0.7068
+  },
+  {
+   "variant": "P1-P5",
+   "fault": "shared5",
+   "profile": "Human, held-out",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0
+  }
+ ]
+}

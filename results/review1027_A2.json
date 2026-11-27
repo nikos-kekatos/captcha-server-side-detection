@@ -1,0 +1,228 @@
+{
+ "A2": [
+  {
+   "budget": 0.0005,
+   "profile": "Human, held-out",
+   "k": 114,
+   "n": 20000,
+   "rate": 0.0057,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.0005,
+   "profile": "CRNN, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.0005,
+   "profile": "VLM qwen3.5_9b, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.0005,
+   "profile": "Fixed delay, human gap",
+   "k": 44,
+   "n": 20000,
+   "rate": 0.0022,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.0005,
+   "profile": "Farm relay, human gap",
+   "k": 2564,
+   "n": 20000,
+   "rate": 0.1282,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.0005,
+   "profile": "Pooled mimic, full accuracy",
+   "k": 7656,
+   "n": 20000,
+   "rate": 0.3828,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.0005,
+   "profile": "Person mimic, full accuracy",
+   "k": 9,
+   "n": 20000,
+   "rate": 0.00045,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.001,
+   "profile": "Human, held-out",
+   "k": 166,
+   "n": 20000,
+   "rate": 0.0083,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.001,
+   "profile": "CRNN, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.001,
+   "profile": "VLM qwen3.5_9b, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.001,
+   "profile": "Fixed delay, human gap",
+   "k": 80,
+   "n": 20000,
+   "rate": 0.004,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.001,
+   "profile": "Farm relay, human gap",
+   "k": 3189,
+   "n": 20000,
+   "rate": 0.15945,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.001,
+   "profile": "Pooled mimic, full accuracy",
+   "k": 8538,
+   "n": 20000,
+   "rate": 0.4269,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.001,
+   "profile": "Person mimic, full accuracy",
+   "k": 18,
+   "n": 20000,
+   "rate": 0.0009,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.0015,
+   "profile": "Human, held-out",
+   "k": 208,
+   "n": 20000,
+   "rate": 0.0104,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.0015,
+   "profile": "CRNN, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.0015,
+   "profile": "VLM qwen3.5_9b, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.0015,
+   "profile": "Fixed delay, human gap",
+   "k": 100,
+   "n": 20000,
+   "rate": 0.005,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.0015,
+   "profile": "Farm relay, human gap",
+   "k": 3432,
+   "n": 20000,
+   "rate": 0.1716,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.0015,
+   "profile": "Pooled mimic, full accuracy",
+   "k": 8805,
+   "n": 20000,
+   "rate": 0.44025,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.0015,
+   "profile": "Person mimic, full accuracy",
+   "k": 19,
+   "n": 20000,
+   "rate": 0.00095,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.002,
+   "profile": "Human, held-out",
+   "k": 253,
+   "n": 20000,
+   "rate": 0.01265,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.002,
+   "profile": "CRNN, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.002,
+   "profile": "VLM qwen3.5_9b, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.002,
+   "profile": "Fixed delay, human gap",
+   "k": 129,
+   "n": 20000,
+   "rate": 0.00645,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.002,
+   "profile": "Farm relay, human gap",
+   "k": 3939,
+   "n": 20000,
+   "rate": 0.19695,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.002,
+   "profile": "Pooled mimic, full accuracy",
+   "k": 9280,
+   "n": 20000,
+   "rate": 0.464,
+   "calibration_streams": 20000
+  },
+  {
+   "budget": 0.002,
+   "profile": "Person mimic, full accuracy",
+   "k": 25,
+   "n": 20000,
+   "rate": 0.00125,
+   "calibration_streams": 20000
+  }
+ ]
+}

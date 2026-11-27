@@ -1,0 +1,14 @@
+CRNN, direct {'min_latency': 1.0, 'min_median': 1.0, 'min_cv': 0.0838, 'max_rate': 1.0, 'correct': 0.8428, 'sd_log_latency': 0.137}
+VLM gemma3_4b, direct {'min_latency': 0.9533, 'min_median': 0.9866, 'min_cv': 0.9196, 'max_rate': 1.0, 'correct': 0.9425, 'sd_log_latency': 1.0}
+VLM qwen3.5_9b, direct {'min_latency': 0.9987, 'min_median': 0.9999, 'min_cv': 0.5321, 'max_rate': 1.0, 'correct': 0.5007, 'sd_log_latency': 0.9983}
+Fixed delay 6-12 s {'min_latency': 0.8962, 'min_median': 0.7524, 'min_cv': 0.7601, 'max_rate': 1.0, 'correct': 0.8417, 'sd_log_latency': 1.0}
+Fixed delay, human gap {'min_latency': 0.8962, 'min_median': 0.7524, 'min_cv': 0.7601, 'max_rate': 0.049, 'correct': 0.8417, 'sd_log_latency': 1.0}
+Farm relay {'min_latency': 0.299, 'min_median': 0.4478, 'min_cv': 0.1954, 'max_rate': 1.0, 'correct': 0.0216, 'sd_log_latency': 0.5888}
+Farm relay, human gap {'min_latency': 0.299, 'min_median': 0.4478, 'min_cv': 0.1954, 'max_rate': 0.0185, 'correct': 0.0216, 'sd_log_latency': 0.5888}
+Pooled mimic, full accuracy {'min_latency': 0.4821, 'min_median': 0.5279, 'min_cv': 0.1478, 'max_rate': 0.0131, 'correct': 0.8442, 'sd_log_latency': 0.6485}
+Pooled mimic, human accuracy {'min_latency': 0.5036, 'min_median': 0.535, 'min_cv': 0.1506, 'max_rate': 0.022, 'correct': 0.0164, 'sd_log_latency': 0.6427}
+Person mimic, full accuracy {'min_latency': 0.038, 'min_median': 0.0294, 'min_cv': 0.0296, 'max_rate': 0.0174, 'correct': 0.8408, 'sd_log_latency': 0.028}
+Person mimic, human accuracy {'min_latency': 0.03, 'min_median': 0.0282, 'min_cv': 0.0273, 'max_rate': 0.0115, 'correct': 0.0201, 'sd_log_latency': 0.0304}
+Rate-paced mimic, human accuracy {'min_latency': 0.0298, 'min_median': 0.0272, 'min_cv': 0.0339, 'max_rate': 0.9976, 'correct': 0.0165, 'sd_log_latency': 0.0374}
+Person mimic, E2 solver accuracy {'min_latency': 0.038, 'min_median': 0.0294, 'min_cv': 0.0296, 'max_rate': 0.0174, 'correct': 0.3718, 'sd_log_latency': 0.028}
+noise floor {'min_latency': 0.0302, 'min_median': 0.0317, 'min_cv': 0.0374, 'max_rate': 0.0149, 'correct': 0.0144, 'sd_log_latency': 0.0325}

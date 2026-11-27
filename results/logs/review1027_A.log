@@ -1,0 +1,25 @@
+A split 0
+A split 1
+A split 2
+A split 3
+A split 4
+A split 5
+A split 6
+A split 7
+A split 8
+A split 9
+A split 10
+A split 11
+A split 12
+A split 13
+A split 14
+A split 15
+A split 16
+A split 17
+A split 18
+A split 19
+0.002 {'Human, held-out': 1.51, 'CRNN, direct': 100.0, 'VLM qwen3.5_9b, direct': 100.0, 'Fixed delay, human gap': 0.78, 'Farm relay, human gap': 22.39, 'Pooled mimic, full accuracy': 49.2, 'Person mimic, full accuracy': 0.17}
+0.003 {'Human, held-out': 1.51, 'CRNN, direct': 100.0, 'VLM qwen3.5_9b, direct': 100.0, 'Fixed delay, human gap': 0.78, 'Farm relay, human gap': 22.39, 'Pooled mimic, full accuracy': 49.2, 'Person mimic, full accuracy': 0.17}
+0.004 {'Human, held-out': 1.93, 'CRNN, direct': 100.0, 'VLM qwen3.5_9b, direct': 100.0, 'Fixed delay, human gap': 1.46, 'Farm relay, human gap': 25.54, 'Pooled mimic, full accuracy': 52.14, 'Person mimic, full accuracy': 0.24}
+0.005 {'Human, held-out': 2.48, 'CRNN, direct': 100.0, 'VLM qwen3.5_9b, direct': 100.0, 'Fixed delay, human gap': 2.07, 'Farm relay, human gap': 29.04, 'Pooled mimic, full accuracy': 54.66, 'Person mimic, full accuracy': 0.4}
+0.006 {'Human, held-out': 2.48, 'CRNN, direct': 100.0, 'VLM qwen3.5_9b, direct': 100.0, 'Fixed delay, human gap': 2.07, 'Farm relay, human gap': 29.04, 'Pooled mimic, full accuracy': 54.66, 'Person mimic, full accuracy': 0.4}

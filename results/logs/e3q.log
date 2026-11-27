@@ -1,0 +1,12 @@
+20:56:29 E3q 0 2 {'surrogate': 0.81, 'transfer': 0.976, 'surrogate_float': 0.806, 'transfer_float': 0.976}
+20:56:39 E3q 0 4 {'surrogate': 0.391, 'transfer': 0.95, 'surrogate_float': 0.39, 'transfer_float': 0.95}
+20:56:49 E3q 0 8 {'surrogate': 0.011, 'transfer': 0.821, 'surrogate_float': 0.011, 'transfer_float': 0.822}
+20:57:00 E3q 0 16 {'surrogate': 0.0, 'transfer': 0.315, 'surrogate_float': 0.0, 'transfer_float': 0.315}
+20:57:10 E3q 1 2 {'surrogate': 0.818, 'transfer': 0.975, 'surrogate_float': 0.812, 'transfer_float': 0.975}
+20:57:21 E3q 1 4 {'surrogate': 0.347, 'transfer': 0.95, 'surrogate_float': 0.346, 'transfer_float': 0.95}
+20:57:31 E3q 1 8 {'surrogate': 0.003, 'transfer': 0.848, 'surrogate_float': 0.003, 'transfer_float': 0.847}
+20:57:41 E3q 1 16 {'surrogate': 0.0, 'transfer': 0.44, 'surrogate_float': 0.0, 'transfer_float': 0.44}
+20:57:52 E3q 2 2 {'surrogate': 0.82, 'transfer': 0.968, 'surrogate_float': 0.814, 'transfer_float': 0.968}
+20:58:02 E3q 2 4 {'surrogate': 0.395, 'transfer': 0.951, 'surrogate_float': 0.395, 'transfer_float': 0.951}
+20:58:12 E3q 2 8 {'surrogate': 0.005, 'transfer': 0.837, 'surrogate_float': 0.005, 'transfer_float': 0.836}
+20:58:22 E3q 2 16 {'surrogate': 0.0, 'transfer': 0.397, 'surrogate_float': 0.0, 'transfer_float': 0.397}

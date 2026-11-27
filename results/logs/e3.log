@@ -1,0 +1,15 @@
+19:15:15 E3 0 1 0 120.0 {'surrogate': 0.985, 'transfer': 0.987, 'transfer_median': 0.963, 'transfer_quant': 0.977}
+19:17:58 E3 0 1 2 43.8 {'surrogate': 0.81, 'transfer': 0.977, 'transfer_median': 0.948, 'transfer_quant': 0.956, 'adaptive_ft': 0.971, 'adaptive_ft_clean': 0.985}
+19:20:55 E3 0 1 4 38.3 {'surrogate': 0.388, 'transfer': 0.95, 'transfer_median': 0.936, 'transfer_quant': 0.936, 'adaptive_ft': 0.953, 'adaptive_ft_clean': 0.983}
+19:27:34 E3 0 1 8 32.8 {'surrogate': 0.011, 'transfer': 0.829, 'transfer_median': 0.879, 'transfer_quant': 0.848, 'adaptive_ft': 0.887, 'adaptive_ft_clean': 0.988}
+19:33:45 E3 0 1 16 27.3 {'surrogate': 0.0, 'transfer': 0.293, 'transfer_median': 0.73, 'transfer_quant': 0.403, 'adaptive_ft': 0.803, 'adaptive_ft_clean': 0.974}
+19:33:46 E3 1 2 0 120.0 {'surrogate': 0.987, 'transfer': 0.988, 'transfer_median': 0.956, 'transfer_quant': 0.979}
+19:37:14 E3 1 2 2 43.9 {'surrogate': 0.812, 'transfer': 0.976, 'transfer_median': 0.943, 'transfer_quant': 0.965, 'adaptive_ft': 0.968, 'adaptive_ft_clean': 0.979}
+19:44:27 E3 1 2 4 38.3 {'surrogate': 0.333, 'transfer': 0.951, 'transfer_median': 0.922, 'transfer_quant': 0.94, 'adaptive_ft': 0.946, 'adaptive_ft_clean': 0.99}
+20:04:55 E3 1 2 8 32.8 {'surrogate': 0.004, 'transfer': 0.856, 'transfer_median': 0.881, 'transfer_quant': 0.868, 'adaptive_ft': 0.899, 'adaptive_ft_clean': 0.982}
+20:18:16 E3 1 2 16 27.4 {'surrogate': 0.0, 'transfer': 0.452, 'transfer_median': 0.799, 'transfer_quant': 0.511, 'adaptive_ft': 0.805, 'adaptive_ft_clean': 0.981}
+20:18:23 E3 2 0 0 120.0 {'surrogate': 0.988, 'transfer': 0.985, 'transfer_median': 0.957, 'transfer_quant': 0.968}
+20:42:10 E3 2 0 2 43.9 {'surrogate': 0.817, 'transfer': 0.969, 'transfer_median': 0.946, 'transfer_quant': 0.953, 'adaptive_ft': 0.962, 'adaptive_ft_clean': 0.981}
+20:45:42 E3 2 0 4 38.3 {'surrogate': 0.394, 'transfer': 0.951, 'transfer_median': 0.925, 'transfer_quant': 0.938, 'adaptive_ft': 0.95, 'adaptive_ft_clean': 0.991}
+20:49:47 E3 2 0 8 32.8 {'surrogate': 0.007, 'transfer': 0.83, 'transfer_median': 0.878, 'transfer_quant': 0.839, 'adaptive_ft': 0.887, 'adaptive_ft_clean': 0.985}
+20:52:38 E3 2 0 16 27.3 {'surrogate': 0.0, 'transfer': 0.402, 'transfer_median': 0.762, 'transfer_quant': 0.471, 'adaptive_ft': 0.791, 'adaptive_ft_clean': 0.973}

@@ -1,0 +1,42 @@
+C split 0
+C split 1
+C split 2
+C split 3
+C split 4
+C split 5
+C split 6
+C split 7
+C split 8
+C split 9
+C split 10
+C split 11
+C split 12
+C split 13
+C split 14
+C split 15
+C split 16
+C split 17
+C split 18
+C split 19
+P1-P6 none Human, held-out 3.16
+P1-P6 none CRNN, direct 100.0
+P1-P6 none Pooled mimic, full accuracy 57.93
+P1-P6 missing Human, held-out 3.33
+P1-P6 missing CRNN, direct 100.0
+P1-P6 missing Pooled mimic, full accuracy 58.0
+P1-P6 delay Human, held-out 3.25
+P1-P6 delay CRNN, direct 100.0
+P1-P6 delay Pooled mimic, full accuracy 58.26
+P1-P6 shared2 Human, held-out 79.65
+P1-P6 shared5 Human, held-out 100.0
+P1-P5 none Human, held-out 0.79
+P1-P5 none CRNN, direct 100.0
+P1-P5 none Pooled mimic, full accuracy 0.21
+P1-P5 missing Human, held-out 0.83
+P1-P5 missing CRNN, direct 100.0
+P1-P5 missing Pooled mimic, full accuracy 0.07
+P1-P5 delay Human, held-out 0.79
+P1-P5 delay CRNN, direct 100.0
+P1-P5 delay Pooled mimic, full accuracy 0.18
+P1-P5 shared2 Human, held-out 70.68
+P1-P5 shared5 Human, held-out 100.0

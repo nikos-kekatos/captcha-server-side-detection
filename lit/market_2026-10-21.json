@@ -1,0 +1,7 @@
+{"date": "2026-10-21",
+ "source": "lit/market_snapshot_2026-10-21.md",
+ "services": 5,
+ "text_usd_per_1000": [0.30, 2.0],
+ "recaptcha_v2_usd_per_1000": [0.60, 2.89],
+ "ip_usd_per_month": [0.30, 2.70],
+ "ip_providers": 2}

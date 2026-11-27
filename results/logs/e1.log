@@ -1,0 +1,12 @@
+18:36:33 E1 0 0 {'L0': 0.999, 'L0_heldout_fonts': 0.552, 'L1': 0.134, 'L1_heldout_fonts': 0.049, 'L2': 0.003, 'L2_heldout_fonts': 0.001, 'L3': 0.0, 'L3_heldout_fonts': 0.0, 'G1': 0.0}
+18:39:39 E1 0 1 {'L0': 0.999, 'L0_heldout_fonts': 0.583, 'L1': 0.147, 'L1_heldout_fonts': 0.054, 'L2': 0.005, 'L2_heldout_fonts': 0.002, 'L3': 0.0, 'L3_heldout_fonts': 0.0, 'G1': 0.0}
+18:42:42 E1 0 2 {'L0': 0.999, 'L0_heldout_fonts': 0.6, 'L1': 0.139, 'L1_heldout_fonts': 0.052, 'L2': 0.001, 'L2_heldout_fonts': 0.001, 'L3': 0.0, 'L3_heldout_fonts': 0.0, 'G1': 0.0}
+18:45:39 E1 1 0 {'L0': 0.998, 'L0_heldout_fonts': 0.808, 'L1': 0.996, 'L1_heldout_fonts': 0.714, 'L2': 0.379, 'L2_heldout_fonts': 0.175, 'L3': 0.001, 'L3_heldout_fonts': 0.003, 'G1': 0.002}
+18:48:33 E1 1 1 {'L0': 0.999, 'L0_heldout_fonts': 0.834, 'L1': 0.996, 'L1_heldout_fonts': 0.75, 'L2': 0.237, 'L2_heldout_fonts': 0.129, 'L3': 0.001, 'L3_heldout_fonts': 0.0, 'G1': 0.004}
+18:51:14 E1 1 2 {'L0': 0.999, 'L0_heldout_fonts': 0.817, 'L1': 0.997, 'L1_heldout_fonts': 0.72, 'L2': 0.349, 'L2_heldout_fonts': 0.169, 'L3': 0.001, 'L3_heldout_fonts': 0.002, 'G1': 0.001}
+18:54:05 E1 2 0 {'L0': 0.994, 'L0_heldout_fonts': 0.827, 'L1': 0.965, 'L1_heldout_fonts': 0.775, 'L2': 0.99, 'L2_heldout_fonts': 0.74, 'L3': 0.299, 'L3_heldout_fonts': 0.168, 'G1': 0.008}
+18:56:52 E1 2 1 {'L0': 0.991, 'L0_heldout_fonts': 0.826, 'L1': 0.963, 'L1_heldout_fonts': 0.797, 'L2': 0.994, 'L2_heldout_fonts': 0.761, 'L3': 0.272, 'L3_heldout_fonts': 0.153, 'G1': 0.01}
+18:59:40 E1 2 2 {'L0': 0.993, 'L0_heldout_fonts': 0.785, 'L1': 0.96, 'L1_heldout_fonts': 0.734, 'L2': 0.991, 'L2_heldout_fonts': 0.718, 'L3': 0.259, 'L3_heldout_fonts': 0.135, 'G1': 0.011}
+19:02:33 E1 3 0 {'L0': 0.759, 'L0_heldout_fonts': 0.362, 'L1': 0.72, 'L1_heldout_fonts': 0.337, 'L2': 0.932, 'L2_heldout_fonts': 0.485, 'L3': 0.931, 'L3_heldout_fonts': 0.48, 'G1': 0.002}
+19:05:27 E1 3 1 {'L0': 0.723, 'L0_heldout_fonts': 0.336, 'L1': 0.667, 'L1_heldout_fonts': 0.334, 'L2': 0.942, 'L2_heldout_fonts': 0.511, 'L3': 0.923, 'L3_heldout_fonts': 0.487, 'G1': 0.004}
+19:08:18 E1 3 2 {'L0': 0.678, 'L0_heldout_fonts': 0.282, 'L1': 0.725, 'L1_heldout_fonts': 0.337, 'L2': 0.961, 'L2_heldout_fonts': 0.538, 'L3': 0.916, 'L3_heldout_fonts': 0.494, 'G1': 0.002}

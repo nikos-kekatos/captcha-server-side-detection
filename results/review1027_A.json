@@ -1,0 +1,249 @@
+{
+ "A": [
+  {
+   "budget": 0.002,
+   "profile": "Human, held-out",
+   "k": 302,
+   "n": 20000,
+   "rate": 0.0151
+  },
+  {
+   "budget": 0.002,
+   "profile": "CRNN, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0
+  },
+  {
+   "budget": 0.002,
+   "profile": "VLM qwen3.5_9b, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0
+  },
+  {
+   "budget": 0.002,
+   "profile": "Fixed delay, human gap",
+   "k": 156,
+   "n": 20000,
+   "rate": 0.0078
+  },
+  {
+   "budget": 0.002,
+   "profile": "Farm relay, human gap",
+   "k": 4478,
+   "n": 20000,
+   "rate": 0.2239
+  },
+  {
+   "budget": 0.002,
+   "profile": "Pooled mimic, full accuracy",
+   "k": 9840,
+   "n": 20000,
+   "rate": 0.492
+  },
+  {
+   "budget": 0.002,
+   "profile": "Person mimic, full accuracy",
+   "k": 34,
+   "n": 20000,
+   "rate": 0.0017
+  },
+  {
+   "budget": 0.003,
+   "profile": "Human, held-out",
+   "k": 302,
+   "n": 20000,
+   "rate": 0.0151
+  },
+  {
+   "budget": 0.003,
+   "profile": "CRNN, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0
+  },
+  {
+   "budget": 0.003,
+   "profile": "VLM qwen3.5_9b, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0
+  },
+  {
+   "budget": 0.003,
+   "profile": "Fixed delay, human gap",
+   "k": 156,
+   "n": 20000,
+   "rate": 0.0078
+  },
+  {
+   "budget": 0.003,
+   "profile": "Farm relay, human gap",
+   "k": 4478,
+   "n": 20000,
+   "rate": 0.2239
+  },
+  {
+   "budget": 0.003,
+   "profile": "Pooled mimic, full accuracy",
+   "k": 9840,
+   "n": 20000,
+   "rate": 0.492
+  },
+  {
+   "budget": 0.003,
+   "profile": "Person mimic, full accuracy",
+   "k": 34,
+   "n": 20000,
+   "rate": 0.0017
+  },
+  {
+   "budget": 0.004,
+   "profile": "Human, held-out",
+   "k": 387,
+   "n": 20000,
+   "rate": 0.01935
+  },
+  {
+   "budget": 0.004,
+   "profile": "CRNN, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0
+  },
+  {
+   "budget": 0.004,
+   "profile": "VLM qwen3.5_9b, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0
+  },
+  {
+   "budget": 0.004,
+   "profile": "Fixed delay, human gap",
+   "k": 292,
+   "n": 20000,
+   "rate": 0.0146
+  },
+  {
+   "budget": 0.004,
+   "profile": "Farm relay, human gap",
+   "k": 5107,
+   "n": 20000,
+   "rate": 0.25535
+  },
+  {
+   "budget": 0.004,
+   "profile": "Pooled mimic, full accuracy",
+   "k": 10429,
+   "n": 20000,
+   "rate": 0.52145
+  },
+  {
+   "budget": 0.004,
+   "profile": "Person mimic, full accuracy",
+   "k": 49,
+   "n": 20000,
+   "rate": 0.00245
+  },
+  {
+   "budget": 0.005,
+   "profile": "Human, held-out",
+   "k": 497,
+   "n": 20000,
+   "rate": 0.02485
+  },
+  {
+   "budget": 0.005,
+   "profile": "CRNN, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0
+  },
+  {
+   "budget": 0.005,
+   "profile": "VLM qwen3.5_9b, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0
+  },
+  {
+   "budget": 0.005,
+   "profile": "Fixed delay, human gap",
+   "k": 414,
+   "n": 20000,
+   "rate": 0.0207
+  },
+  {
+   "budget": 0.005,
+   "profile": "Farm relay, human gap",
+   "k": 5809,
+   "n": 20000,
+   "rate": 0.29045
+  },
+  {
+   "budget": 0.005,
+   "profile": "Pooled mimic, full accuracy",
+   "k": 10931,
+   "n": 20000,
+   "rate": 0.54655
+  },
+  {
+   "budget": 0.005,
+   "profile": "Person mimic, full accuracy",
+   "k": 81,
+   "n": 20000,
+   "rate": 0.00405
+  },
+  {
+   "budget": 0.006,
+   "profile": "Human, held-out",
+   "k": 497,
+   "n": 20000,
+   "rate": 0.02485
+  },
+  {
+   "budget": 0.006,
+   "profile": "CRNN, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0
+  },
+  {
+   "budget": 0.006,
+   "profile": "VLM qwen3.5_9b, direct",
+   "k": 20000,
+   "n": 20000,
+   "rate": 1.0
+  },
+  {
+   "budget": 0.006,
+   "profile": "Fixed delay, human gap",
+   "k": 414,
+   "n": 20000,
+   "rate": 0.0207
+  },
+  {
+   "budget": 0.006,
+   "profile": "Farm relay, human gap",
+   "k": 5809,
+   "n": 20000,
+   "rate": 0.29045
+  },
+  {
+   "budget": 0.006,
+   "profile": "Pooled mimic, full accuracy",
+   "k": 10931,
+   "n": 20000,
+   "rate": 0.54655
+  },
+  {
+   "budget": 0.006,
+   "profile": "Person mimic, full accuracy",
+   "k": 81,
+   "n": 20000,
+   "rate": 0.00405
+  }
+ ]
+}

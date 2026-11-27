@@ -1,0 +1,48 @@
+split 0 37s human FPR {10: 0.0045, 20: 0.003, 30: 0.003, 50: 0.0055, 100: 0.0035}
+split 1 56s human FPR {10: 0.002, 20: 0.018, 30: 0.012, 50: 0.009, 100: 0.013}
+split 2 77s human FPR {10: 0.007, 20: 0.014, 30: 0.033, 50: 0.041, 100: 0.041}
+split 3 97s human FPR {10: 0.0, 20: 0.004, 30: 0.001, 50: 0.006, 100: 0.002}
+split 4 119s human FPR {10: 0.016, 20: 0.017, 30: 0.017, 50: 0.02, 100: 0.045}
+split 5 140s human FPR {10: 0.012, 20: 0.012, 30: 0.025, 50: 0.018, 100: 0.03}
+split 6 162s human FPR {10: 0.01, 20: 0.006, 30: 0.009, 50: 0.016, 100: 0.032}
+split 7 181s human FPR {10: 0.005, 20: 0.003, 30: 0.011, 50: 0.01, 100: 0.017}
+split 8 201s human FPR {10: 0.005, 20: 0.005, 30: 0.007, 50: 0.005, 100: 0.005}
+split 9 221s human FPR {10: 0.001, 20: 0.005, 30: 0.003, 50: 0.002, 100: 0.002}
+split 10 241s human FPR {10: 0.004, 20: 0.002, 30: 0.006, 50: 0.008, 100: 0.004}
+split 11 260s human FPR {10: 0.04, 20: 0.059, 30: 0.08, 50: 0.219, 100: 0.418}
+split 12 280s human FPR {10: 0.012, 20: 0.009, 30: 0.007, 50: 0.009, 100: 0.01}
+split 13 299s human FPR {10: 0.008, 20: 0.014, 30: 0.008, 50: 0.008, 100: 0.008}
+split 14 318s human FPR {10: 0.016, 20: 0.016, 30: 0.03, 50: 0.06, 100: 0.088}
+split 15 336s human FPR {10: 0.006, 20: 0.003, 30: 0.003, 50: 0.005, 100: 0.003}
+split 16 354s human FPR {10: 0.02, 20: 0.032, 30: 0.056, 50: 0.124, 100: 0.229}
+split 17 371s human FPR {10: 0.006, 20: 0.007, 30: 0.006, 50: 0.006, 100: 0.01}
+split 18 388s human FPR {10: 0.017, 20: 0.009, 30: 0.041, 50: 0.089, 100: 0.123}
+split 19 406s human FPR {10: 0.014, 20: 0.018, 30: 0.016, 50: 0.027, 100: 0.031}
+gap 60.0 50
+gap 120.0 45
+gap 300.0 25
+gap 900.0 14
+gap 1800.0 10
+misspec 20 nominal 0.006 {'P1': 3, 'P2': 4, 'P3': 2, 'P4': 0, 'P5': 0, 'P6': 3}
+misspec 20 sigma 0.32 0.0045 {'P1': 0, 'P2': 1, 'P3': 8, 'P4': 0, 'P5': 0, 'P6': 0}
+misspec 20 sigma 0.48 0.017 {'P1': 5, 'P2': 7, 'P3': 2, 'P4': 0, 'P5': 0, 'P6': 21}
+misspec 20 accuracy mean 0.71 0.0065 {'P1': 1, 'P2': 4, 'P3': 3, 'P4': 0, 'P5': 0, 'P6': 5}
+misspec 20 accuracy mean 0.93 0.008 {'P1': 4, 'P2': 8, 'P3': 2, 'P4': 0, 'P5': 0, 'P6': 2}
+misspec 20 accuracy homogeneous 0.0065 {'P1': 3, 'P2': 7, 'P3': 0, 'P4': 0, 'P5': 0, 'P6': 3}
+misspec 20 accuracy SD 0.15 0.0065 {'P1': 3, 'P2': 5, 'P3': 3, 'P4': 0, 'P5': 0, 'P6': 2}
+misspec 20 gap 60 s 0.006 {'P1': 3, 'P2': 4, 'P3': 2, 'P4': 0, 'P5': 0, 'P6': 3}
+misspec 20 gap 1800 s 0.006 {'P1': 3, 'P2': 4, 'P3': 2, 'P4': 0, 'P5': 0, 'P6': 3}
+misspec 20 pooled latencies 0.2355 {'P1': 0, 'P2': 0, 'P3': 0, 'P4': 0, 'P5': 0, 'P6': 471}
+misspec 50 nominal 0.009 {'P1': 3, 'P2': 3, 'P3': 3, 'P4': 4, 'P5': 0, 'P6': 5}
+misspec 50 sigma 0.32 0.0075 {'P1': 0, 'P2': 0, 'P3': 11, 'P4': 4, 'P5': 0, 'P6': 0}
+misspec 50 sigma 0.48 0.0265 {'P1': 6, 'P2': 4, 'P3': 3, 'P4': 3, 'P5': 0, 'P6': 37}
+misspec 50 accuracy mean 0.71 0.0075 {'P1': 3, 'P2': 4, 'P3': 2, 'P4': 2, 'P5': 0, 'P6': 4}
+misspec 50 accuracy mean 0.93 0.008 {'P1': 4, 'P2': 2, 'P3': 3, 'P4': 3, 'P5': 0, 'P6': 4}
+misspec 50 accuracy homogeneous 0.0095 {'P1': 1, 'P2': 3, 'P3': 5, 'P4': 6, 'P5': 0, 'P6': 4}
+misspec 50 accuracy SD 0.15 0.0055 {'P1': 1, 'P2': 2, 'P3': 4, 'P4': 1, 'P5': 0, 'P6': 3}
+misspec 50 gap 60 s 1.0 {'P1': 1, 'P2': 2, 'P3': 2, 'P4': 1995, 'P5': 0, 'P6': 0}
+misspec 50 gap 1800 s 0.007 {'P1': 3, 'P2': 3, 'P3': 3, 'P4': 0, 'P5': 0, 'P6': 5}
+misspec 50 pooled latencies 0.5605 {'P1': 0, 'P2': 0, 'P3': 3, 'P4': 6, 'P5': 0, 'P6': 1112}
+homog 20 {'Human, homogeneous (as calibrated)': 0.011, 'Human, heterogeneous SD 0.10': 0.0035, 'Person mimic, full accuracy': 0.008, 'Person mimic, human accuracy': 0.0055, 'Person mimic, E2 solver accuracy': 0.008}
+homog 50 {'Human, homogeneous (as calibrated)': 0.006, 'Human, heterogeneous SD 0.10': 0.095, 'Person mimic, full accuracy': 0.9305, 'Person mimic, human accuracy': 0.0935, 'Person mimic, E2 solver accuracy': 0.0115}
+homog 100 {'Human, homogeneous (as calibrated)': 0.0095, 'Human, heterogeneous SD 0.10': 0.1535, 'Person mimic, full accuracy': 1.0, 'Person mimic, human accuracy': 0.1525, 'Person mimic, E2 solver accuracy': 0.016}

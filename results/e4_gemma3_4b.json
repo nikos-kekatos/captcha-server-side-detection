@@ -1,0 +1,7502 @@
+[
+{
+"cond": "L0",
+"i": 0,
+"truth": "SDB2",
+"raw": "SDB2",
+"pred": "SDB2",
+"ok": true,
+"cer": 0.0,
+"latency_s": 4.875532150268555
+},
+{
+"cond": "L0",
+"i": 1,
+"truth": "GTT9C2",
+"raw": "GTT9C2",
+"pred": "GTT9C2",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9708080291748047
+},
+{
+"cond": "L0",
+"i": 2,
+"truth": "UB2TZ",
+"raw": "UB2TZ",
+"pred": "UB2TZ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9502742290496826
+},
+{
+"cond": "L0",
+"i": 3,
+"truth": "KNYZGT",
+"raw": "KNYZGT",
+"pred": "KNYZGT",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.955275058746338
+},
+{
+"cond": "L0",
+"i": 4,
+"truth": "FTMR",
+"raw": "FTMR",
+"pred": "FTMR",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9351119995117188
+},
+{
+"cond": "L0",
+"i": 5,
+"truth": "TDJGQ",
+"raw": "TDJQG",
+"pred": "TDJQG",
+"ok": false,
+"cer": 0.4,
+"latency_s": 1.9437191486358643
+},
+{
+"cond": "L0",
+"i": 6,
+"truth": "3ZTBZ",
+"raw": "3ZTBZ",
+"pred": "3ZTBZ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9564998149871826
+},
+{
+"cond": "L0",
+"i": 7,
+"truth": "U6RT3",
+"raw": "U6RT3",
+"pred": "U6RT3",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9577279090881348
+},
+{
+"cond": "L0",
+"i": 8,
+"truth": "K8P5WD",
+"raw": "K8P5WD",
+"pred": "K8P5WD",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9712958335876465
+},
+{
+"cond": "L0",
+"i": 9,
+"truth": "XB7C",
+"raw": "X B 7 C",
+"pred": "XB7C",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9793260097503662
+},
+{
+"cond": "L0",
+"i": 10,
+"truth": "CNYHWZ",
+"raw": "CNYHWZ",
+"pred": "CNYHWZ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9637792110443115
+},
+{
+"cond": "L0",
+"i": 11,
+"truth": "GRE8RQ",
+"raw": "GRE8RQ",
+"pred": "GRE8RQ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.951481819152832
+},
+{
+"cond": "L0",
+"i": 12,
+"truth": "9HWPNK",
+"raw": "9HWPNK",
+"pred": "9HWPNK",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.969425916671753
+},
+{
+"cond": "L0",
+"i": 13,
+"truth": "39XJ",
+"raw": "39XJ",
+"pred": "39XJ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9732558727264404
+},
+{
+"cond": "L0",
+"i": 14,
+"truth": "M859",
+"raw": "M859",
+"pred": "M859",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9710299968719482
+},
+{
+"cond": "L0",
+"i": 15,
+"truth": "CS9AT9",
+"raw": "CS9AT9",
+"pred": "CS9AT9",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.975121259689331
+},
+{
+"cond": "L0",
+"i": 16,
+"truth": "4GQM3",
+"raw": "4GQM3",
+"pred": "4GQM3",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9842250347137451
+},
+{
+"cond": "L0",
+"i": 17,
+"truth": "ZT82Q9",
+"raw": "ZT82Q9",
+"pred": "ZT82Q9",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0011391639709473
+},
+{
+"cond": "L0",
+"i": 18,
+"truth": "RYC7",
+"raw": "RYC7",
+"pred": "RYC7",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9826929569244385
+},
+{
+"cond": "L0",
+"i": 19,
+"truth": "62ZCST",
+"raw": "62ZCS T",
+"pred": "62ZCST",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.00722599029541
+},
+{
+"cond": "L0",
+"i": 20,
+"truth": "TDQM",
+"raw": "TDQM",
+"pred": "TDQM",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.978269100189209
+},
+{
+"cond": "L0",
+"i": 21,
+"truth": "6JCR9",
+"raw": "6JCR9",
+"pred": "6JCR9",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9977149963378906
+},
+{
+"cond": "L0",
+"i": 22,
+"truth": "QV76J",
+"raw": "QV76J",
+"pred": "QV76J",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0077521800994873
+},
+{
+"cond": "L0",
+"i": 23,
+"truth": "QPBJ",
+"raw": "QPBJ",
+"pred": "QPBJ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.082443952560425
+},
+{
+"cond": "L0",
+"i": 24,
+"truth": "98VEQ5",
+"raw": "98VEQ5",
+"pred": "98VEQ5",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9837779998779297
+},
+{
+"cond": "L0",
+"i": 25,
+"truth": "VFTZ4J",
+"raw": "VF TZ4J",
+"pred": "VFTZ4J",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0592410564422607
+},
+{
+"cond": "L0",
+"i": 26,
+"truth": "7379",
+"raw": "7379",
+"pred": "7379",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9868061542510986
+},
+{
+"cond": "L0",
+"i": 27,
+"truth": "XJE5AJ",
+"raw": "XJE5AJ",
+"pred": "XJE5AJ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0047919750213623
+},
+{
+"cond": "L0",
+"i": 28,
+"truth": "ESAMM7",
+"raw": "ESAMM7",
+"pred": "ESAMM7",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0033328533172607
+},
+{
+"cond": "L0",
+"i": 29,
+"truth": "Q3WERX",
+"raw": "Q3WERX",
+"pred": "Q3WERX",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.020063877105713
+},
+{
+"cond": "L0",
+"i": 30,
+"truth": "VXM424",
+"raw": "VX M424",
+"pred": "VXM424",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.025193929672241
+},
+{
+"cond": "L0",
+"i": 31,
+"truth": "7V5M",
+"raw": "7V5M",
+"pred": "7V5M",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0123419761657715
+},
+{
+"cond": "L0",
+"i": 32,
+"truth": "3Q7C",
+"raw": "3Q7C",
+"pred": "3Q7C",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0242919921875
+},
+{
+"cond": "L0",
+"i": 33,
+"truth": "62MJVS",
+"raw": "62MJs",
+"pred": "62MJS",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.033285140991211
+},
+{
+"cond": "L0",
+"i": 34,
+"truth": "KVC9B",
+"raw": "KVC9B",
+"pred": "KVC9B",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.025192975997925
+},
+{
+"cond": "L0",
+"i": 35,
+"truth": "4779H",
+"raw": "4779H",
+"pred": "4779H",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0417118072509766
+},
+{
+"cond": "L0",
+"i": 36,
+"truth": "UETNE",
+"raw": "ETNE",
+"pred": "ETNE",
+"ok": false,
+"cer": 0.2,
+"latency_s": 1.996326208114624
+},
+{
+"cond": "L0",
+"i": 37,
+"truth": "F8JJM",
+"raw": "F8JJM",
+"pred": "F8JJM",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0211989879608154
+},
+{
+"cond": "L0",
+"i": 38,
+"truth": "ZM38",
+"raw": "ZM38",
+"pred": "ZM38",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.009714365005493
+},
+{
+"cond": "L0",
+"i": 39,
+"truth": "CWZX",
+"raw": "CWZX",
+"pred": "CWZX",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.990483283996582
+},
+{
+"cond": "L0",
+"i": 40,
+"truth": "BYFS",
+"raw": "BYFS",
+"pred": "BYFS",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.055696964263916
+},
+{
+"cond": "L0",
+"i": 41,
+"truth": "7HTD",
+"raw": "7HTD",
+"pred": "7HTD",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9985699653625488
+},
+{
+"cond": "L0",
+"i": 42,
+"truth": "NT5TG",
+"raw": "NT5TG",
+"pred": "NT5TG",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.970855951309204
+},
+{
+"cond": "L0",
+"i": 43,
+"truth": "X8WZSZ",
+"raw": "X8WZSZ",
+"pred": "X8WZSZ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.015089273452759
+},
+{
+"cond": "L0",
+"i": 44,
+"truth": "V95UY",
+"raw": "V95UY",
+"pred": "V95UY",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0182230472564697
+},
+{
+"cond": "L0",
+"i": 45,
+"truth": "YG3RAE",
+"raw": "YG3RAE",
+"pred": "YG3RAE",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0457441806793213
+},
+{
+"cond": "L0",
+"i": 46,
+"truth": "WP6K",
+"raw": "W6K",
+"pred": "W6K",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.047255039215088
+},
+{
+"cond": "L0",
+"i": 47,
+"truth": "NZKXB",
+"raw": "NZKXB",
+"pred": "NZKXB",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.960649013519287
+},
+{
+"cond": "L0",
+"i": 48,
+"truth": "B3QEMW",
+"raw": "B3QEMW",
+"pred": "B3QEMW",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0160436630249023
+},
+{
+"cond": "L0",
+"i": 49,
+"truth": "2U79NC",
+"raw": "2U79NC",
+"pred": "2U79NC",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0309832096099854
+},
+{
+"cond": "L0",
+"i": 50,
+"truth": "UM46PG",
+"raw": "UM46PG",
+"pred": "UM46PG",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.009955883026123
+},
+{
+"cond": "L0",
+"i": 51,
+"truth": "8PQU",
+"raw": "8PQU",
+"pred": "8PQU",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.102710723876953
+},
+{
+"cond": "L0",
+"i": 52,
+"truth": "WA4E",
+"raw": "W A 4 E",
+"pred": "WA4E",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9727318286895752
+},
+{
+"cond": "L0",
+"i": 53,
+"truth": "WNDP",
+"raw": "WNDP",
+"pred": "WNDP",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.040095806121826
+},
+{
+"cond": "L0",
+"i": 54,
+"truth": "NNB3V",
+"raw": "NNB3V",
+"pred": "NNB3V",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0149409770965576
+},
+{
+"cond": "L0",
+"i": 55,
+"truth": "CKNFJ",
+"raw": "CKNJ",
+"pred": "CKNJ",
+"ok": false,
+"cer": 0.2,
+"latency_s": 1.970262050628662
+},
+{
+"cond": "L0",
+"i": 56,
+"truth": "DMT9",
+"raw": "DMT9",
+"pred": "DMT9",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0593440532684326
+},
+{
+"cond": "L0",
+"i": 57,
+"truth": "3UWM",
+"raw": "3UWM",
+"pred": "3UWM",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9648339748382568
+},
+{
+"cond": "L0",
+"i": 58,
+"truth": "NK44",
+"raw": "NK44",
+"pred": "NK44",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.989029884338379
+},
+{
+"cond": "L0",
+"i": 59,
+"truth": "5E9EDW",
+"raw": "5E9EDW",
+"pred": "5E9EDW",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0254740715026855
+},
+{
+"cond": "L0",
+"i": 60,
+"truth": "6BK9B",
+"raw": "6BK9B",
+"pred": "6BK9B",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0098397731781006
+},
+{
+"cond": "L0",
+"i": 61,
+"truth": "ZXXQF",
+"raw": "ZXXQF",
+"pred": "ZXXQF",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.087684154510498
+},
+{
+"cond": "L0",
+"i": 62,
+"truth": "UXW9P",
+"raw": "UXW9P",
+"pred": "UXW9P",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9706308841705322
+},
+{
+"cond": "L0",
+"i": 63,
+"truth": "AKSJTD",
+"raw": "AKSJT D",
+"pred": "AKSJTD",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0370030403137207
+},
+{
+"cond": "L0",
+"i": 64,
+"truth": "P6TV",
+"raw": "P6TV",
+"pred": "P6TV",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.995392084121704
+},
+{
+"cond": "L0",
+"i": 65,
+"truth": "3HZD",
+"raw": "3HZD",
+"pred": "3HZD",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9803502559661865
+},
+{
+"cond": "L0",
+"i": 66,
+"truth": "CRM4",
+"raw": "CRM4",
+"pred": "CRM4",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9830360412597656
+},
+{
+"cond": "L0",
+"i": 67,
+"truth": "9NJ534",
+"raw": "9NJ534",
+"pred": "9NJ534",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0287399291992188
+},
+{
+"cond": "L0",
+"i": 68,
+"truth": "4KMA",
+"raw": "4KMA",
+"pred": "4KMA",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0319652557373047
+},
+{
+"cond": "L0",
+"i": 69,
+"truth": "RJDU",
+"raw": "RJDUE",
+"pred": "RJDUE",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.0215282440185547
+},
+{
+"cond": "L0",
+"i": 70,
+"truth": "WZ29KV",
+"raw": "WZ29KV",
+"pred": "WZ29KV",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9843251705169678
+},
+{
+"cond": "L0",
+"i": 71,
+"truth": "BBEBK",
+"raw": "BB EK",
+"pred": "BBEK",
+"ok": false,
+"cer": 0.2,
+"latency_s": 1.9843790531158447
+},
+{
+"cond": "L0",
+"i": 72,
+"truth": "9PN6S",
+"raw": "9PN6S",
+"pred": "9PN6S",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.014558792114258
+},
+{
+"cond": "L0",
+"i": 73,
+"truth": "Z4D4",
+"raw": "Z4D4",
+"pred": "Z4D4",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.011590003967285
+},
+{
+"cond": "L0",
+"i": 74,
+"truth": "3ZWQ",
+"raw": "3ZWQ",
+"pred": "3ZWQ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.990473985671997
+},
+{
+"cond": "L0",
+"i": 75,
+"truth": "7C84EK",
+"raw": "7C84EK",
+"pred": "7C84EK",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.032639980316162
+},
+{
+"cond": "L0",
+"i": 76,
+"truth": "3GWS",
+"raw": "3GWS",
+"pred": "3GWS",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.064807176589966
+},
+{
+"cond": "L0",
+"i": 77,
+"truth": "8HNP",
+"raw": "8HNP",
+"pred": "8HNP",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1160600185394287
+},
+{
+"cond": "L0",
+"i": 78,
+"truth": "JC4VKP",
+"raw": "J C 4 V K P",
+"pred": "JC4VKP",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0974390506744385
+},
+{
+"cond": "L0",
+"i": 79,
+"truth": "RKAZHQ",
+"raw": "RKAZHQ",
+"pred": "RKAZHQ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0885419845581055
+},
+{
+"cond": "L0",
+"i": 80,
+"truth": "X8GZ",
+"raw": "X8GZ",
+"pred": "X8GZ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9806437492370605
+},
+{
+"cond": "L0",
+"i": 81,
+"truth": "3Y3JWK",
+"raw": "3Y3JWK",
+"pred": "3Y3JWK",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.100911855697632
+},
+{
+"cond": "L0",
+"i": 82,
+"truth": "N47KV",
+"raw": "N47KV",
+"pred": "N47KV",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9946277141571045
+},
+{
+"cond": "L0",
+"i": 83,
+"truth": "K5EW8Y",
+"raw": "K5EW8Y",
+"pred": "K5EW8Y",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0102710723876953
+},
+{
+"cond": "L0",
+"i": 84,
+"truth": "NMG739",
+"raw": "NMG739",
+"pred": "NMG739",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.058725118637085
+},
+{
+"cond": "L0",
+"i": 85,
+"truth": "YQ3KDG",
+"raw": "YQ3KDG",
+"pred": "YQ3KDG",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.013922929763794
+},
+{
+"cond": "L0",
+"i": 86,
+"truth": "RB5PX",
+"raw": "RB5PX",
+"pred": "RB5PX",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9914391040802002
+},
+{
+"cond": "L0",
+"i": 87,
+"truth": "24VX",
+"raw": "24VX",
+"pred": "24VX",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9964849948883057
+},
+{
+"cond": "L0",
+"i": 88,
+"truth": "YFB9",
+"raw": "YFB9",
+"pred": "YFB9",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9941339492797852
+},
+{
+"cond": "L0",
+"i": 89,
+"truth": "GVE7FX",
+"raw": "GVE7FX",
+"pred": "GVE7FX",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0070807933807373
+},
+{
+"cond": "L0",
+"i": 90,
+"truth": "UZ53CP",
+"raw": "UZ53P",
+"pred": "UZ53P",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.0124847888946533
+},
+{
+"cond": "L0",
+"i": 91,
+"truth": "HRSZ",
+"raw": "HRSZ",
+"pred": "HRSZ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.988623857498169
+},
+{
+"cond": "L0",
+"i": 92,
+"truth": "BWRS",
+"raw": "BWRS",
+"pred": "BWRS",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9863722324371338
+},
+{
+"cond": "L0",
+"i": 93,
+"truth": "YTQV",
+"raw": "Y T Q V",
+"pred": "YTQV",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.012394905090332
+},
+{
+"cond": "L0",
+"i": 94,
+"truth": "35FN",
+"raw": "35FN",
+"pred": "35FN",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0802180767059326
+},
+{
+"cond": "L0",
+"i": 95,
+"truth": "EUG5",
+"raw": "EUG5",
+"pred": "EUG5",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.96464204788208
+},
+{
+"cond": "L0",
+"i": 96,
+"truth": "W65HTY",
+"raw": "W65HTY",
+"pred": "W65HTY",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0762789249420166
+},
+{
+"cond": "L0",
+"i": 97,
+"truth": "B3VU",
+"raw": "B3VU",
+"pred": "B3VU",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9945549964904785
+},
+{
+"cond": "L0",
+"i": 98,
+"truth": "SY2UG",
+"raw": "SY2UG",
+"pred": "SY2UG",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9804983139038086
+},
+{
+"cond": "L0",
+"i": 99,
+"truth": "NUJY",
+"raw": "NUJY",
+"pred": "NUJY",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0644209384918213
+},
+{
+"cond": "L0",
+"i": 100,
+"truth": "Z3KT73",
+"raw": "Z3KT73",
+"pred": "Z3KT73",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.997342824935913
+},
+{
+"cond": "L0",
+"i": 101,
+"truth": "MEJE29",
+"raw": "MEJE29",
+"pred": "MEJE29",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0305027961730957
+},
+{
+"cond": "L0",
+"i": 102,
+"truth": "2UJ45G",
+"raw": "2Uj45G",
+"pred": "2UJ45G",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.3040173053741455
+},
+{
+"cond": "L0",
+"i": 103,
+"truth": "M9U36K",
+"raw": "M9U36K",
+"pred": "M9U36K",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.147411823272705
+},
+{
+"cond": "L0",
+"i": 104,
+"truth": "GDUC5",
+"raw": "GDUC5",
+"pred": "GDUC5",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0557940006256104
+},
+{
+"cond": "L0",
+"i": 105,
+"truth": "6AB2J",
+"raw": "6AB2J",
+"pred": "6AB2J",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.028818130493164
+},
+{
+"cond": "L0",
+"i": 106,
+"truth": "34X2BF",
+"raw": "34X2BF",
+"pred": "34X2BF",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0467188358306885
+},
+{
+"cond": "L0",
+"i": 107,
+"truth": "6X6TZP",
+"raw": "6X6TzP",
+"pred": "6X6TZP",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.094836950302124
+},
+{
+"cond": "L0",
+"i": 108,
+"truth": "444RJ",
+"raw": "444RJ",
+"pred": "444RJ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.101392984390259
+},
+{
+"cond": "L0",
+"i": 109,
+"truth": "7CBCM",
+"raw": "7CBCM",
+"pred": "7CBCM",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0478272438049316
+},
+{
+"cond": "L0",
+"i": 110,
+"truth": "CKP8",
+"raw": "CKP8",
+"pred": "CKP8",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9616529941558838
+},
+{
+"cond": "L0",
+"i": 111,
+"truth": "HZQWWV",
+"raw": "HZQww",
+"pred": "HZQWW",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 1.9679927825927734
+},
+{
+"cond": "L0",
+"i": 112,
+"truth": "7DVQU",
+"raw": "7DVQU",
+"pred": "7DVQU",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0165979862213135
+},
+{
+"cond": "L0",
+"i": 113,
+"truth": "VC8C",
+"raw": "V C 8 C",
+"pred": "VC8C",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9930500984191895
+},
+{
+"cond": "L0",
+"i": 114,
+"truth": "Q72DQ",
+"raw": "Q72DQQ",
+"pred": "Q72DQQ",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.0566909313201904
+},
+{
+"cond": "L0",
+"i": 115,
+"truth": "3UXH",
+"raw": "3UXH",
+"pred": "3UXH",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.976682424545288
+},
+{
+"cond": "L0",
+"i": 116,
+"truth": "TYJC",
+"raw": "TYJC",
+"pred": "TYJC",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9647552967071533
+},
+{
+"cond": "L0",
+"i": 117,
+"truth": "ZG7D52",
+"raw": "ZGD52",
+"pred": "ZGD52",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 1.9997060298919678
+},
+{
+"cond": "L0",
+"i": 118,
+"truth": "MF5J4",
+"raw": "MF5J4",
+"pred": "MF5J4",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.004150867462158
+},
+{
+"cond": "L0",
+"i": 119,
+"truth": "PRPZXF",
+"raw": "PRPZXZF",
+"pred": "PRPZXZF",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.0262718200683594
+},
+{
+"cond": "L0",
+"i": 120,
+"truth": "J29Z3",
+"raw": "J29Z3",
+"pred": "J29Z3",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0331621170043945
+},
+{
+"cond": "L0",
+"i": 121,
+"truth": "NBFM",
+"raw": "NBFM",
+"pred": "NBFM",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0106401443481445
+},
+{
+"cond": "L0",
+"i": 122,
+"truth": "NNUY3",
+"raw": "NNUY3",
+"pred": "NNUY3",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.999366044998169
+},
+{
+"cond": "L0",
+"i": 123,
+"truth": "X2SF",
+"raw": "X2SF",
+"pred": "X2SF",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0079500675201416
+},
+{
+"cond": "L0",
+"i": 124,
+"truth": "QBPYRE",
+"raw": "QBPYRE",
+"pred": "QBPYRE",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0194132328033447
+},
+{
+"cond": "L0",
+"i": 125,
+"truth": "3NVFE",
+"raw": "3NVFE",
+"pred": "3NVFE",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.004544973373413
+},
+{
+"cond": "L0",
+"i": 126,
+"truth": "XZZGM",
+"raw": "XZZGM",
+"pred": "XZZGM",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0062739849090576
+},
+{
+"cond": "L0",
+"i": 127,
+"truth": "XBVY9W",
+"raw": "XBVY9W",
+"pred": "XBVY9W",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0598111152648926
+},
+{
+"cond": "L0",
+"i": 128,
+"truth": "YWZ8N",
+"raw": "YWz8N",
+"pred": "YWZ8N",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0314559936523438
+},
+{
+"cond": "L0",
+"i": 129,
+"truth": "3KW86",
+"raw": "3KW86",
+"pred": "3KW86",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0207197666168213
+},
+{
+"cond": "L0",
+"i": 130,
+"truth": "WTTA",
+"raw": "WTTA",
+"pred": "WTTA",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9912939071655273
+},
+{
+"cond": "L0",
+"i": 131,
+"truth": "JM9PJ7",
+"raw": "JM9PJ7",
+"pred": "JM9PJ7",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0158238410949707
+},
+{
+"cond": "L0",
+"i": 132,
+"truth": "TEPTS",
+"raw": "TEPTS",
+"pred": "TEPTS",
+"ok": true,
+"cer": 0.0,
+"latency_s": 1.9877309799194336
+},
+{
+"cond": "L0",
+"i": 133,
+"truth": "X9HKF",
+"raw": "X9HKF",
+"pred": "X9HKF",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.020357131958008
+},
+{
+"cond": "L0",
+"i": 134,
+"truth": "MY7PBU",
+"raw": "MY7PBU",
+"pred": "MY7PBU",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.028385639190674
+},
+{
+"cond": "L0",
+"i": 135,
+"truth": "6WX7TC",
+"raw": "6W\u00d77TC",
+"pred": "6W7TC",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.041645050048828
+},
+{
+"cond": "L0",
+"i": 136,
+"truth": "B8Z29D",
+"raw": "B8Z29D",
+"pred": "B8Z29D",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.081130027770996
+},
+{
+"cond": "L0",
+"i": 137,
+"truth": "EUW7",
+"raw": "EUW7",
+"pred": "EUW7",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.139241933822632
+},
+{
+"cond": "L0",
+"i": 138,
+"truth": "V9CS",
+"raw": "V9CS",
+"pred": "V9CS",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0189812183380127
+},
+{
+"cond": "L0",
+"i": 139,
+"truth": "D5MZXA",
+"raw": "D5MZXA",
+"pred": "D5MZXA",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0640578269958496
+},
+{
+"cond": "L0",
+"i": 140,
+"truth": "WKJ4",
+"raw": "WKJ4",
+"pred": "WKJ4",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.060244083404541
+},
+{
+"cond": "L0",
+"i": 141,
+"truth": "YAJ3",
+"raw": "YAJ3",
+"pred": "YAJ3",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0631959438323975
+},
+{
+"cond": "L0",
+"i": 142,
+"truth": "RA68GD",
+"raw": "RA68GD",
+"pred": "RA68GD",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0894510746002197
+},
+{
+"cond": "L0",
+"i": 143,
+"truth": "24VT",
+"raw": "24T",
+"pred": "24T",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.0816168785095215
+},
+{
+"cond": "L0",
+"i": 144,
+"truth": "URUU",
+"raw": "URUU",
+"pred": "URUU",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.138242244720459
+},
+{
+"cond": "L0",
+"i": 145,
+"truth": "4V8A4A",
+"raw": "4V8A4A",
+"pred": "4V8A4A",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.31321382522583
+},
+{
+"cond": "L0",
+"i": 146,
+"truth": "PNH26",
+"raw": "PNH26",
+"pred": "PNH26",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1576108932495117
+},
+{
+"cond": "L0",
+"i": 147,
+"truth": "A8B4",
+"raw": "A8B4",
+"pred": "A8B4",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.2135210037231445
+},
+{
+"cond": "L0",
+"i": 148,
+"truth": "RX2W8",
+"raw": "RX2W8",
+"pred": "RX2W8",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.099848985671997
+},
+{
+"cond": "L0",
+"i": 149,
+"truth": "FH2MZ3",
+"raw": "FH2MZ3",
+"pred": "FH2MZ3",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.155461072921753
+},
+{
+"cond": "L1",
+"i": 0,
+"truth": "APH5P6",
+"raw": "APH5P6",
+"pred": "APH5P6",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.091653823852539
+},
+{
+"cond": "L1",
+"i": 1,
+"truth": "MPKZ9P",
+"raw": "MPKZ9P",
+"pred": "MPKZ9P",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.140575885772705
+},
+{
+"cond": "L1",
+"i": 2,
+"truth": "YPQT",
+"raw": "YPQT",
+"pred": "YPQT",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.204617977142334
+},
+{
+"cond": "L1",
+"i": 3,
+"truth": "XATR",
+"raw": "XATR",
+"pred": "XATR",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.076550006866455
+},
+{
+"cond": "L1",
+"i": 4,
+"truth": "YXU9",
+"raw": "YXU9",
+"pred": "YXU9",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1574478149414062
+},
+{
+"cond": "L1",
+"i": 5,
+"truth": "HU7G",
+"raw": "HU7G",
+"pred": "HU7G",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1210532188415527
+},
+{
+"cond": "L1",
+"i": 6,
+"truth": "FXHW4",
+"raw": "FXHW4",
+"pred": "FXHW4",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1430628299713135
+},
+{
+"cond": "L1",
+"i": 7,
+"truth": "G7AUZS",
+"raw": "G7AUZS",
+"pred": "G7AUZS",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.217737913131714
+},
+{
+"cond": "L1",
+"i": 8,
+"truth": "859WR",
+"raw": "859W/R",
+"pred": "859WR",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1671459674835205
+},
+{
+"cond": "L1",
+"i": 9,
+"truth": "8AZC3",
+"raw": "8AZC3",
+"pred": "8AZC3",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.179414987564087
+},
+{
+"cond": "L1",
+"i": 10,
+"truth": "PZJ3BQ",
+"raw": "PZJ3BQ",
+"pred": "PZJ3BQ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.149477243423462
+},
+{
+"cond": "L1",
+"i": 11,
+"truth": "J8ZPP",
+"raw": "J8ZP",
+"pred": "J8ZP",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.122939109802246
+},
+{
+"cond": "L1",
+"i": 12,
+"truth": "MJT746",
+"raw": "MJ746",
+"pred": "MJ746",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.1351706981658936
+},
+{
+"cond": "L1",
+"i": 13,
+"truth": "MDAQ",
+"raw": "MDAQ",
+"pred": "MDAQ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.116624116897583
+},
+{
+"cond": "L1",
+"i": 14,
+"truth": "ZKYKES",
+"raw": "SKYKES",
+"pred": "SKYKES",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.1184301376342773
+},
+{
+"cond": "L1",
+"i": 15,
+"truth": "VNCV",
+"raw": "VNCV",
+"pred": "VNCV",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1266770362854004
+},
+{
+"cond": "L1",
+"i": 16,
+"truth": "DJF5",
+"raw": "DJFS",
+"pred": "DJFS",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.1141998767852783
+},
+{
+"cond": "L1",
+"i": 17,
+"truth": "4XG3",
+"raw": "4XG3",
+"pred": "4XG3",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.142486095428467
+},
+{
+"cond": "L1",
+"i": 18,
+"truth": "BH85",
+"raw": "BH85",
+"pred": "BH85",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.121541976928711
+},
+{
+"cond": "L1",
+"i": 19,
+"truth": "ZR2CV",
+"raw": "ZR2CV",
+"pred": "ZR2CV",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.252858877182007
+},
+{
+"cond": "L1",
+"i": 20,
+"truth": "NRYKQ",
+"raw": "NRYKQ",
+"pred": "NRYKQ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1374728679656982
+},
+{
+"cond": "L1",
+"i": 21,
+"truth": "Q4GG",
+"raw": "Q4G \n",
+"pred": "Q4G",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.3142521381378174
+},
+{
+"cond": "L1",
+"i": 22,
+"truth": "CV3HP",
+"raw": "CV3HP",
+"pred": "CV3HP",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.288393974304199
+},
+{
+"cond": "L1",
+"i": 23,
+"truth": "6X8XA",
+"raw": "68XA",
+"pred": "68XA",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.2749059200286865
+},
+{
+"cond": "L1",
+"i": 24,
+"truth": "8BKR",
+"raw": "8BKR",
+"pred": "8BKR",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0902881622314453
+},
+{
+"cond": "L1",
+"i": 25,
+"truth": "SXQVY",
+"raw": "SXQVY",
+"pred": "SXQVY",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1363561153411865
+},
+{
+"cond": "L1",
+"i": 26,
+"truth": "B42ZWW",
+"raw": "B42ZW",
+"pred": "B42ZW",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.1942977905273438
+},
+{
+"cond": "L1",
+"i": 27,
+"truth": "ABGR",
+"raw": "ABGR",
+"pred": "ABGR",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.090407133102417
+},
+{
+"cond": "L1",
+"i": 28,
+"truth": "BKJMTN",
+"raw": "BKJMTN",
+"pred": "BKJMTN",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.133352041244507
+},
+{
+"cond": "L1",
+"i": 29,
+"truth": "EC3E9",
+"raw": "EC3E9",
+"pred": "EC3E9",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1408610343933105
+},
+{
+"cond": "L1",
+"i": 30,
+"truth": "J6TPK",
+"raw": "J6TPK",
+"pred": "J6TPK",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.151355028152466
+},
+{
+"cond": "L1",
+"i": 31,
+"truth": "9H7Z4P",
+"raw": "9H7Z4P",
+"pred": "9H7Z4P",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.199432849884033
+},
+{
+"cond": "L1",
+"i": 32,
+"truth": "D8MS8",
+"raw": "D8MS8",
+"pred": "D8MS8",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1521310806274414
+},
+{
+"cond": "L1",
+"i": 33,
+"truth": "NA8G",
+"raw": "N8G",
+"pred": "N8G",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.1236307621002197
+},
+{
+"cond": "L1",
+"i": 34,
+"truth": "GARMK4",
+"raw": "GARMK4",
+"pred": "GARMK4",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1299688816070557
+},
+{
+"cond": "L1",
+"i": 35,
+"truth": "292W",
+"raw": "292W",
+"pred": "292W",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1479809284210205
+},
+{
+"cond": "L1",
+"i": 36,
+"truth": "MVE4AP",
+"raw": "MVE4AP",
+"pred": "MVE4AP",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1449029445648193
+},
+{
+"cond": "L1",
+"i": 37,
+"truth": "46N9AQ",
+"raw": "46N9AQ",
+"pred": "46N9AQ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1556689739227295
+},
+{
+"cond": "L1",
+"i": 38,
+"truth": "UPHNV",
+"raw": "UPHV",
+"pred": "UPHV",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.120615243911743
+},
+{
+"cond": "L1",
+"i": 39,
+"truth": "EQ365V",
+"raw": "EQ365V",
+"pred": "EQ365V",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1607859134674072
+},
+{
+"cond": "L1",
+"i": 40,
+"truth": "W27M",
+"raw": "W27M",
+"pred": "W27M",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1578497886657715
+},
+{
+"cond": "L1",
+"i": 41,
+"truth": "98B54",
+"raw": "98B54",
+"pred": "98B54",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1591789722442627
+},
+{
+"cond": "L1",
+"i": 42,
+"truth": "U5HV",
+"raw": "Q5HV",
+"pred": "Q5HV",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.1383109092712402
+},
+{
+"cond": "L1",
+"i": 43,
+"truth": "BDCCZ",
+"raw": "BDCCZ",
+"pred": "BDCCZ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.132560968399048
+},
+{
+"cond": "L1",
+"i": 44,
+"truth": "JDFJ6K",
+"raw": "JDFJ6K",
+"pred": "JDFJ6K",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.125352144241333
+},
+{
+"cond": "L1",
+"i": 45,
+"truth": "38WB",
+"raw": "38WB",
+"pred": "38WB",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.066465139389038
+},
+{
+"cond": "L1",
+"i": 46,
+"truth": "D5NAV",
+"raw": "D5NAV",
+"pred": "D5NAV",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.233337163925171
+},
+{
+"cond": "L1",
+"i": 47,
+"truth": "GADC",
+"raw": "GADC",
+"pred": "GADC",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.133600950241089
+},
+{
+"cond": "L1",
+"i": 48,
+"truth": "27K9",
+"raw": "27K9",
+"pred": "27K9",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.209756851196289
+},
+{
+"cond": "L1",
+"i": 49,
+"truth": "DAT7",
+"raw": "DAT7",
+"pred": "DAT7",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.139547109603882
+},
+{
+"cond": "L1",
+"i": 50,
+"truth": "TXPJR",
+"raw": "TXPR",
+"pred": "TXPR",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.2087438106536865
+},
+{
+"cond": "L1",
+"i": 51,
+"truth": "KCB6Q",
+"raw": "KCB6Q",
+"pred": "KCB6Q",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1534130573272705
+},
+{
+"cond": "L1",
+"i": 52,
+"truth": "KCW5M",
+"raw": "KCWM",
+"pred": "KCWM",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.2569069862365723
+},
+{
+"cond": "L1",
+"i": 53,
+"truth": "PMX6XQ",
+"raw": "PMX6XQ",
+"pred": "PMX6XQ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1414172649383545
+},
+{
+"cond": "L1",
+"i": 54,
+"truth": "573QX",
+"raw": "573QX",
+"pred": "573QX",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.161332130432129
+},
+{
+"cond": "L1",
+"i": 55,
+"truth": "ZUSP",
+"raw": "ZUSP",
+"pred": "ZUSP",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.124889850616455
+},
+{
+"cond": "L1",
+"i": 56,
+"truth": "VY9U",
+"raw": "V9U",
+"pred": "V9U",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.117948055267334
+},
+{
+"cond": "L1",
+"i": 57,
+"truth": "T4GUKU",
+"raw": "T4GUKU",
+"pred": "T4GUKU",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.141180992126465
+},
+{
+"cond": "L1",
+"i": 58,
+"truth": "MVUU",
+"raw": "MUUU",
+"pred": "MUUU",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.119040012359619
+},
+{
+"cond": "L1",
+"i": 59,
+"truth": "G6J5Y",
+"raw": "G6J5Y",
+"pred": "G6J5Y",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1449029445648193
+},
+{
+"cond": "L1",
+"i": 60,
+"truth": "C5WN",
+"raw": "C5WNN",
+"pred": "C5WNN",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.140576124191284
+},
+{
+"cond": "L1",
+"i": 61,
+"truth": "ZXCR",
+"raw": "ZXCR",
+"pred": "ZXCR",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0982298851013184
+},
+{
+"cond": "L1",
+"i": 62,
+"truth": "MHAWMM",
+"raw": "MAWM",
+"pred": "MAWM",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.174665927886963
+},
+{
+"cond": "L1",
+"i": 63,
+"truth": "75UG9C",
+"raw": "7SUG9C",
+"pred": "7SUG9C",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.1306591033935547
+},
+{
+"cond": "L1",
+"i": 64,
+"truth": "VJB4",
+"raw": "VJB4",
+"pred": "VJB4",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.144191026687622
+},
+{
+"cond": "L1",
+"i": 65,
+"truth": "CHTQ",
+"raw": "C H T Q",
+"pred": "CHTQ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1313648223876953
+},
+{
+"cond": "L1",
+"i": 66,
+"truth": "5EQYS",
+"raw": "5EQYS",
+"pred": "5EQYS",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.116712808609009
+},
+{
+"cond": "L1",
+"i": 67,
+"truth": "TEHP3S",
+"raw": "TEHP3S",
+"pred": "TEHP3S",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.131603956222534
+},
+{
+"cond": "L1",
+"i": 68,
+"truth": "384DS",
+"raw": "384DS",
+"pred": "384DS",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1205408573150635
+},
+{
+"cond": "L1",
+"i": 69,
+"truth": "CP5E9",
+"raw": "CP5E9",
+"pred": "CP5E9",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.13112211227417
+},
+{
+"cond": "L1",
+"i": 70,
+"truth": "QB9N6M",
+"raw": "QBN6M",
+"pred": "QBN6M",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.1233742237091064
+},
+{
+"cond": "L1",
+"i": 71,
+"truth": "CAV3",
+"raw": "A3",
+"pred": "A3",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.0890049934387207
+},
+{
+"cond": "L1",
+"i": 72,
+"truth": "SSPS27",
+"raw": "SPS27",
+"pred": "SPS27",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.124235153198242
+},
+{
+"cond": "L1",
+"i": 73,
+"truth": "TCF3X",
+"raw": "TCF3X",
+"pred": "TCF3X",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1124107837677
+},
+{
+"cond": "L1",
+"i": 74,
+"truth": "SAYY7C",
+"raw": "SAYYZC",
+"pred": "SAYYZC",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.18239688873291
+},
+{
+"cond": "L1",
+"i": 75,
+"truth": "5HYD",
+"raw": "SHYD",
+"pred": "SHYD",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.078648090362549
+},
+{
+"cond": "L1",
+"i": 76,
+"truth": "V5S2",
+"raw": "V5S2",
+"pred": "V5S2",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.2114620208740234
+},
+{
+"cond": "L1",
+"i": 77,
+"truth": "TQJZ",
+"raw": "TQZ",
+"pred": "TQZ",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.079131841659546
+},
+{
+"cond": "L1",
+"i": 78,
+"truth": "VYC9C",
+"raw": "VYC9C",
+"pred": "VYC9C",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.141852855682373
+},
+{
+"cond": "L1",
+"i": 79,
+"truth": "YEB2C",
+"raw": "YEB2C",
+"pred": "YEB2C",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1348040103912354
+},
+{
+"cond": "L1",
+"i": 80,
+"truth": "9FWV",
+"raw": "9FWV",
+"pred": "9FWV",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0909769535064697
+},
+{
+"cond": "L1",
+"i": 81,
+"truth": "WCJENK",
+"raw": "WJENK",
+"pred": "WJENK",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.3005759716033936
+},
+{
+"cond": "L1",
+"i": 82,
+"truth": "8E6K",
+"raw": "8E6K",
+"pred": "8E6K",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.213369846343994
+},
+{
+"cond": "L1",
+"i": 83,
+"truth": "PVVCY",
+"raw": "PVVCY",
+"pred": "PVVCY",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.149188280105591
+},
+{
+"cond": "L1",
+"i": 84,
+"truth": "YNYP5",
+"raw": "YNYP5",
+"pred": "YNYP5",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1288840770721436
+},
+{
+"cond": "L1",
+"i": 85,
+"truth": "V4Q9ZD",
+"raw": "V4Q9ZD",
+"pred": "V4Q9ZD",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1515262126922607
+},
+{
+"cond": "L1",
+"i": 86,
+"truth": "M8G5KQ",
+"raw": "M8G5KQ",
+"pred": "M8G5KQ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1184241771698
+},
+{
+"cond": "L1",
+"i": 87,
+"truth": "9JPS",
+"raw": "9JPS",
+"pred": "9JPS",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0956969261169434
+},
+{
+"cond": "L1",
+"i": 88,
+"truth": "WE2PJ5",
+"raw": "WE2PJ5",
+"pred": "WE2PJ5",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.2187671661376953
+},
+{
+"cond": "L1",
+"i": 89,
+"truth": "UKKXU",
+"raw": "UKKXU",
+"pred": "UKKXU",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.071073055267334
+},
+{
+"cond": "L1",
+"i": 90,
+"truth": "VMVTY",
+"raw": "VMVY",
+"pred": "VMVY",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.10295033454895
+},
+{
+"cond": "L1",
+"i": 91,
+"truth": "EGU5WE",
+"raw": "EGU5WE",
+"pred": "EGU5WE",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1872949600219727
+},
+{
+"cond": "L1",
+"i": 92,
+"truth": "RGME",
+"raw": "RGMME",
+"pred": "RGMME",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.1023221015930176
+},
+{
+"cond": "L1",
+"i": 93,
+"truth": "BKMWS2",
+"raw": "BKMWS2",
+"pred": "BKMWS2",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.123227119445801
+},
+{
+"cond": "L1",
+"i": 94,
+"truth": "JTZB7",
+"raw": "JTZB7",
+"pred": "JTZB7",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.09598708152771
+},
+{
+"cond": "L1",
+"i": 95,
+"truth": "FPM33J",
+"raw": "FPM33J",
+"pred": "FPM33J",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.112429141998291
+},
+{
+"cond": "L1",
+"i": 96,
+"truth": "UUX3W",
+"raw": "UUX3W",
+"pred": "UUX3W",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0950703620910645
+},
+{
+"cond": "L1",
+"i": 97,
+"truth": "GXKN",
+"raw": "GXKN",
+"pred": "GXKN",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.069577932357788
+},
+{
+"cond": "L1",
+"i": 98,
+"truth": "PS7VG5",
+"raw": "PSVG5",
+"pred": "PSVG5",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.077108383178711
+},
+{
+"cond": "L1",
+"i": 99,
+"truth": "768XU",
+"raw": "768XU",
+"pred": "768XU",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.10908579826355
+},
+{
+"cond": "L1",
+"i": 100,
+"truth": "7AJ9GY",
+"raw": "7A9GY",
+"pred": "7A9GY",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.094801187515259
+},
+{
+"cond": "L1",
+"i": 101,
+"truth": "DS6SS",
+"raw": "DS6SS",
+"pred": "DS6SS",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1606249809265137
+},
+{
+"cond": "L1",
+"i": 102,
+"truth": "N98FF",
+"raw": "N98FF",
+"pred": "N98FF",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0878422260284424
+},
+{
+"cond": "L1",
+"i": 103,
+"truth": "B362",
+"raw": "B362",
+"pred": "B362",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.116015911102295
+},
+{
+"cond": "L1",
+"i": 104,
+"truth": "3UJ5",
+"raw": "3UJS5",
+"pred": "3UJS5",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.1151602268218994
+},
+{
+"cond": "L1",
+"i": 105,
+"truth": "FGDTT",
+"raw": "FGDT",
+"pred": "FGDT",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.1298677921295166
+},
+{
+"cond": "L1",
+"i": 106,
+"truth": "ADNW4F",
+"raw": "ADNW4F",
+"pred": "ADNW4F",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0895748138427734
+},
+{
+"cond": "L1",
+"i": 107,
+"truth": "VZS8SJ",
+"raw": "VZ8SJ",
+"pred": "VZ8SJ",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.1057541370391846
+},
+{
+"cond": "L1",
+"i": 108,
+"truth": "3SDFSP",
+"raw": "3SDESP",
+"pred": "3SDESP",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.0977330207824707
+},
+{
+"cond": "L1",
+"i": 109,
+"truth": "ERH3C7",
+"raw": "ERH3C7",
+"pred": "ERH3C7",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.232085943222046
+},
+{
+"cond": "L1",
+"i": 110,
+"truth": "UUZ4PP",
+"raw": "UUZ4PP",
+"pred": "UUZ4PP",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.096989870071411
+},
+{
+"cond": "L1",
+"i": 111,
+"truth": "K9U3",
+"raw": "K9U3",
+"pred": "K9U3",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0657460689544678
+},
+{
+"cond": "L1",
+"i": 112,
+"truth": "X5XBPH",
+"raw": "X5BPH",
+"pred": "X5BPH",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.071751117706299
+},
+{
+"cond": "L1",
+"i": 113,
+"truth": "FA3WC",
+"raw": "FA3WC",
+"pred": "FA3WC",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0487451553344727
+},
+{
+"cond": "L1",
+"i": 114,
+"truth": "RDFK",
+"raw": "RDFK",
+"pred": "RDFK",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0798940658569336
+},
+{
+"cond": "L1",
+"i": 115,
+"truth": "ECFS97",
+"raw": "ECFS97",
+"pred": "ECFS97",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0916121006011963
+},
+{
+"cond": "L1",
+"i": 116,
+"truth": "8NX4",
+"raw": "8NX4",
+"pred": "8NX4",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.052086114883423
+},
+{
+"cond": "L1",
+"i": 117,
+"truth": "BW22N",
+"raw": "BW22N",
+"pred": "BW22N",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0655910968780518
+},
+{
+"cond": "L1",
+"i": 118,
+"truth": "T24KW",
+"raw": "T24KW",
+"pred": "T24KW",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1637260913848877
+},
+{
+"cond": "L1",
+"i": 119,
+"truth": "9JGM",
+"raw": "9JGM",
+"pred": "9JGM",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0605320930480957
+},
+{
+"cond": "L1",
+"i": 120,
+"truth": "8C67",
+"raw": "8C67",
+"pred": "8C67",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.214308738708496
+},
+{
+"cond": "L1",
+"i": 121,
+"truth": "2WM4",
+"raw": "2WM4",
+"pred": "2WM4",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.102729082107544
+},
+{
+"cond": "L1",
+"i": 122,
+"truth": "XJCXRB",
+"raw": "XJCXRB",
+"pred": "XJCXRB",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.158863067626953
+},
+{
+"cond": "L1",
+"i": 123,
+"truth": "PS8FHX",
+"raw": "PS8FHX",
+"pred": "PS8FHX",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.045383930206299
+},
+{
+"cond": "L1",
+"i": 124,
+"truth": "75M7",
+"raw": "75M7",
+"pred": "75M7",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.061732292175293
+},
+{
+"cond": "L1",
+"i": 125,
+"truth": "QR47",
+"raw": "QR47",
+"pred": "QR47",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0561742782592773
+},
+{
+"cond": "L1",
+"i": 126,
+"truth": "RMCDS",
+"raw": "RMCDS",
+"pred": "RMCDS",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0508878231048584
+},
+{
+"cond": "L1",
+"i": 127,
+"truth": "KMYNV",
+"raw": "KMYNV",
+"pred": "KMYNV",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.081430673599243
+},
+{
+"cond": "L1",
+"i": 128,
+"truth": "BE5Y",
+"raw": "BE5Y",
+"pred": "BE5Y",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.099395990371704
+},
+{
+"cond": "L1",
+"i": 129,
+"truth": "XSFG2Z",
+"raw": "XSFG2Z",
+"pred": "XSFG2Z",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0975699424743652
+},
+{
+"cond": "L1",
+"i": 130,
+"truth": "3ZKQ75",
+"raw": "3ZK Q75",
+"pred": "3ZKQ75",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1160318851470947
+},
+{
+"cond": "L1",
+"i": 131,
+"truth": "KSX9",
+"raw": "KSX9",
+"pred": "KSX9",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.066401958465576
+},
+{
+"cond": "L1",
+"i": 132,
+"truth": "HATN",
+"raw": "HATN",
+"pred": "HATN",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0472657680511475
+},
+{
+"cond": "L1",
+"i": 133,
+"truth": "E8CWH",
+"raw": "E8CWH",
+"pred": "E8CWH",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.088818073272705
+},
+{
+"cond": "L1",
+"i": 134,
+"truth": "4DDQS3",
+"raw": "ADDQS3",
+"pred": "ADDQS3",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.0730152130126953
+},
+{
+"cond": "L1",
+"i": 135,
+"truth": "9VQ9",
+"raw": "9VQ9",
+"pred": "9VQ9",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.135474920272827
+},
+{
+"cond": "L1",
+"i": 136,
+"truth": "C225C",
+"raw": "C225C",
+"pred": "C225C",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0697450637817383
+},
+{
+"cond": "L1",
+"i": 137,
+"truth": "M7UGR",
+"raw": "MZUR",
+"pred": "MZUR",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.0852348804473877
+},
+{
+"cond": "L1",
+"i": 138,
+"truth": "WD97",
+"raw": "WD97",
+"pred": "WD97",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.079551935195923
+},
+{
+"cond": "L1",
+"i": 139,
+"truth": "EJ2PMQ",
+"raw": "EJ2PMQ",
+"pred": "EJ2PMQ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.079972743988037
+},
+{
+"cond": "L1",
+"i": 140,
+"truth": "VKSHC",
+"raw": "VKS HC",
+"pred": "VKSHC",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1293020248413086
+},
+{
+"cond": "L1",
+"i": 141,
+"truth": "SPH37K",
+"raw": "SPH37K",
+"pred": "SPH37K",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0675740242004395
+},
+{
+"cond": "L1",
+"i": 142,
+"truth": "54FDJ",
+"raw": "54FDJ",
+"pred": "54FDJ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1373941898345947
+},
+{
+"cond": "L1",
+"i": 143,
+"truth": "B9YYW",
+"raw": "B9Y YW",
+"pred": "B9YYW",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.3936960697174072
+},
+{
+"cond": "L1",
+"i": 144,
+"truth": "89KEFR",
+"raw": "89KEFR",
+"pred": "89KEFR",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1644349098205566
+},
+{
+"cond": "L1",
+"i": 145,
+"truth": "HC96HR",
+"raw": "HC96HR",
+"pred": "HC96HR",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.2978649139404297
+},
+{
+"cond": "L1",
+"i": 146,
+"truth": "EHWB",
+"raw": "EHWB",
+"pred": "EHWB",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.072054862976074
+},
+{
+"cond": "L1",
+"i": 147,
+"truth": "EPMX6",
+"raw": "EPMX6",
+"pred": "EPMX6",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.2357523441314697
+},
+{
+"cond": "L1",
+"i": 148,
+"truth": "VD4K",
+"raw": "V D4K",
+"pred": "VD4K",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.088409662246704
+},
+{
+"cond": "L1",
+"i": 149,
+"truth": "SXA69",
+"raw": "S X A 6 9",
+"pred": "SXA69",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.133857011795044
+},
+{
+"cond": "L2",
+"i": 0,
+"truth": "NJM6S",
+"raw": "NUM6S",
+"pred": "NUM6S",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.0182368755340576
+},
+{
+"cond": "L2",
+"i": 1,
+"truth": "R3GW",
+"raw": "R3G4",
+"pred": "R3G4",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.075291156768799
+},
+{
+"cond": "L2",
+"i": 2,
+"truth": "GU433",
+"raw": "GU433",
+"pred": "GU433",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1172170639038086
+},
+{
+"cond": "L2",
+"i": 3,
+"truth": "NZ8SS",
+"raw": "NZ8SS",
+"pred": "NZ8SS",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.062809705734253
+},
+{
+"cond": "L2",
+"i": 4,
+"truth": "FHMXYM",
+"raw": "FHMXYM",
+"pred": "FHMXYM",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0774173736572266
+},
+{
+"cond": "L2",
+"i": 5,
+"truth": "XWNJ",
+"raw": "XWNJ",
+"pred": "XWNJ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.078333854675293
+},
+{
+"cond": "L2",
+"i": 6,
+"truth": "HTDX",
+"raw": "HTDX",
+"pred": "HTDX",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.060667037963867
+},
+{
+"cond": "L2",
+"i": 7,
+"truth": "59Z2H7",
+"raw": "59Z2H7",
+"pred": "59Z2H7",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0916249752044678
+},
+{
+"cond": "L2",
+"i": 8,
+"truth": "PYTBXC",
+"raw": "RVTBXC",
+"pred": "RVTBXC",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.0631349086761475
+},
+{
+"cond": "L2",
+"i": 9,
+"truth": "KXTMJ",
+"raw": "KXTMI",
+"pred": "KXTMI",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.0956499576568604
+},
+{
+"cond": "L2",
+"i": 10,
+"truth": "57AM8",
+"raw": "57AM8",
+"pred": "57AM8",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.063077926635742
+},
+{
+"cond": "L2",
+"i": 11,
+"truth": "ACEY",
+"raw": "ACEY",
+"pred": "ACEY",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0674519538879395
+},
+{
+"cond": "L2",
+"i": 12,
+"truth": "8QS98",
+"raw": "8QS98",
+"pred": "8QS98",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.2300469875335693
+},
+{
+"cond": "L2",
+"i": 13,
+"truth": "7BAAAV",
+"raw": "BAAV",
+"pred": "BAAV",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.0730881690979004
+},
+{
+"cond": "L2",
+"i": 14,
+"truth": "AXU3J3",
+"raw": "A443L3",
+"pred": "A443L3",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.119758129119873
+},
+{
+"cond": "L2",
+"i": 15,
+"truth": "YAFD",
+"raw": "KAFD",
+"pred": "KAFD",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.0617339611053467
+},
+{
+"cond": "L2",
+"i": 16,
+"truth": "RPY4",
+"raw": "RPA4",
+"pred": "RPA4",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.0742011070251465
+},
+{
+"cond": "L2",
+"i": 17,
+"truth": "QP2XF6",
+"raw": "QP2+F6",
+"pred": "QP2F6",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.084336996078491
+},
+{
+"cond": "L2",
+"i": 18,
+"truth": "SXR5E",
+"raw": "SXR5E",
+"pred": "SXR5E",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.083416700363159
+},
+{
+"cond": "L2",
+"i": 19,
+"truth": "X3ZQYR",
+"raw": "+3ZQRY",
+"pred": "3ZQRY",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.085304021835327
+},
+{
+"cond": "L2",
+"i": 20,
+"truth": "WA5XAK",
+"raw": "WA5XAK",
+"pred": "WA5XAK",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.070827007293701
+},
+{
+"cond": "L2",
+"i": 21,
+"truth": "TVBTA",
+"raw": "IVBTA",
+"pred": "IVBTA",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.0732338428497314
+},
+{
+"cond": "L2",
+"i": 22,
+"truth": "QJD6C",
+"raw": "Q1D6C",
+"pred": "Q1D6C",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.238647937774658
+},
+{
+"cond": "L2",
+"i": 23,
+"truth": "WQMAMH",
+"raw": "WQMMH",
+"pred": "WQMMH",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.0629611015319824
+},
+{
+"cond": "L2",
+"i": 24,
+"truth": "5DPZ",
+"raw": "5DPZ",
+"pred": "5DPZ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0842418670654297
+},
+{
+"cond": "L2",
+"i": 25,
+"truth": "BYHK",
+"raw": "BYHK",
+"pred": "BYHK",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0568320751190186
+},
+{
+"cond": "L2",
+"i": 26,
+"truth": "HSWPN",
+"raw": "HSWPN",
+"pred": "HSWPN",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.064635992050171
+},
+{
+"cond": "L2",
+"i": 27,
+"truth": "N52A",
+"raw": "N52A",
+"pred": "N52A",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.2080118656158447
+},
+{
+"cond": "L2",
+"i": 28,
+"truth": "PKEQXC",
+"raw": "PKEOXC",
+"pred": "PKEOXC",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.0879852771759033
+},
+{
+"cond": "L2",
+"i": 29,
+"truth": "GR79X",
+"raw": "GR9X",
+"pred": "GR9X",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.064897060394287
+},
+{
+"cond": "L2",
+"i": 30,
+"truth": "8NSD",
+"raw": "8NSD",
+"pred": "8NSD",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.054903745651245
+},
+{
+"cond": "L2",
+"i": 31,
+"truth": "KY2GX",
+"raw": "KY2GF",
+"pred": "KY2GF",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.0641462802886963
+},
+{
+"cond": "L2",
+"i": 32,
+"truth": "SUCB",
+"raw": "SUCB",
+"pred": "SUCB",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.068392038345337
+},
+{
+"cond": "L2",
+"i": 33,
+"truth": "YHYWN",
+"raw": "FAWN",
+"pred": "FAWN",
+"ok": false,
+"cer": 0.6,
+"latency_s": 2.0441629886627197
+},
+{
+"cond": "L2",
+"i": 34,
+"truth": "UHRCU",
+"raw": "URQU",
+"pred": "URQU",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.139413833618164
+},
+{
+"cond": "L2",
+"i": 35,
+"truth": "YEYU3W",
+"raw": "YEYU3W",
+"pred": "YEYU3W",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1299211978912354
+},
+{
+"cond": "L2",
+"i": 36,
+"truth": "4V8V",
+"raw": "4V8V",
+"pred": "4V8V",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0829403400421143
+},
+{
+"cond": "L2",
+"i": 37,
+"truth": "5QR3",
+"raw": "FOR3",
+"pred": "FOR3",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.0604982376098633
+},
+{
+"cond": "L2",
+"i": 38,
+"truth": "8E8N",
+"raw": "8E8N",
+"pred": "8E8N",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.071528911590576
+},
+{
+"cond": "L2",
+"i": 39,
+"truth": "J9PCCU",
+"raw": "J9PCCU",
+"pred": "J9PCCU",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.2258028984069824
+},
+{
+"cond": "L2",
+"i": 40,
+"truth": "HTC4F",
+"raw": "HTC4F",
+"pred": "HTC4F",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.087733030319214
+},
+{
+"cond": "L2",
+"i": 41,
+"truth": "EJCXFW",
+"raw": "EJCKFW",
+"pred": "EJCKFW",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.1368799209594727
+},
+{
+"cond": "L2",
+"i": 42,
+"truth": "HKCYTM",
+"raw": "NKSIT",
+"pred": "NKSIT",
+"ok": false,
+"cer": 0.6666666666666666,
+"latency_s": 2.149993896484375
+},
+{
+"cond": "L2",
+"i": 43,
+"truth": "BVPZ",
+"raw": "BVPZ",
+"pred": "BVPZ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0832951068878174
+},
+{
+"cond": "L2",
+"i": 44,
+"truth": "VFNPQ",
+"raw": "ENPQ",
+"pred": "ENPQ",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.067579746246338
+},
+{
+"cond": "L2",
+"i": 45,
+"truth": "W9QQS",
+"raw": "W9QS",
+"pred": "W9QS",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.0606391429901123
+},
+{
+"cond": "L2",
+"i": 46,
+"truth": "MPMC",
+"raw": "MPMC",
+"pred": "MPMC",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0471749305725098
+},
+{
+"cond": "L2",
+"i": 47,
+"truth": "BKZB",
+"raw": "PKZB",
+"pred": "PKZB",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.065908908843994
+},
+{
+"cond": "L2",
+"i": 48,
+"truth": "5CPME",
+"raw": "SCME",
+"pred": "SCME",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.043797016143799
+},
+{
+"cond": "L2",
+"i": 49,
+"truth": "F5GJ",
+"raw": "A5GJ",
+"pred": "A5GJ",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.058238983154297
+},
+{
+"cond": "L2",
+"i": 50,
+"truth": "67GTA5",
+"raw": "67GTA5",
+"pred": "67GTA5",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.086845874786377
+},
+{
+"cond": "L2",
+"i": 51,
+"truth": "9GT7XT",
+"raw": "9GTXF",
+"pred": "9GTXF",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.123418092727661
+},
+{
+"cond": "L2",
+"i": 52,
+"truth": "MTA2TK",
+"raw": "MTRTK",
+"pred": "MTRTK",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.137277126312256
+},
+{
+"cond": "L2",
+"i": 53,
+"truth": "Q29PET",
+"raw": "Q29PET",
+"pred": "Q29PET",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.089401960372925
+},
+{
+"cond": "L2",
+"i": 54,
+"truth": "Q6MS6",
+"raw": "Q6MS6",
+"pred": "Q6MS6",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0934438705444336
+},
+{
+"cond": "L2",
+"i": 55,
+"truth": "SKTA",
+"raw": "SKTA",
+"pred": "SKTA",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0452380180358887
+},
+{
+"cond": "L2",
+"i": 56,
+"truth": "5FQDG3",
+"raw": "5FQDG3",
+"pred": "5FQDG3",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1852149963378906
+},
+{
+"cond": "L2",
+"i": 57,
+"truth": "DC7YSC",
+"raw": "DC7SC",
+"pred": "DC7SC",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.112781047821045
+},
+{
+"cond": "L2",
+"i": 58,
+"truth": "QZHV",
+"raw": "QZHV",
+"pred": "QZHV",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.064314126968384
+},
+{
+"cond": "L2",
+"i": 59,
+"truth": "XM3TUQ",
+"raw": "X M 3 T U Q",
+"pred": "XM3TUQ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.2604129314422607
+},
+{
+"cond": "L2",
+"i": 60,
+"truth": "QNXEC",
+"raw": "QNXEC",
+"pred": "QNXEC",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0741159915924072
+},
+{
+"cond": "L2",
+"i": 61,
+"truth": "4JB7",
+"raw": "4B7",
+"pred": "4B7",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.0726990699768066
+},
+{
+"cond": "L2",
+"i": 62,
+"truth": "JNFA",
+"raw": "NFA",
+"pred": "NFA",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.047720193862915
+},
+{
+"cond": "L2",
+"i": 63,
+"truth": "NHPG",
+"raw": "NYPG",
+"pred": "NYPG",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.063291072845459
+},
+{
+"cond": "L2",
+"i": 64,
+"truth": "7EACQ",
+"raw": "7EACO",
+"pred": "7EACO",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.0638608932495117
+},
+{
+"cond": "L2",
+"i": 65,
+"truth": "THKJYY",
+"raw": "THKYN",
+"pred": "THKYN",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.060274839401245
+},
+{
+"cond": "L2",
+"i": 66,
+"truth": "FVSCCU",
+"raw": "XSCU",
+"pred": "XSCU",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.0786261558532715
+},
+{
+"cond": "L2",
+"i": 67,
+"truth": "VRVG7",
+"raw": "VRVG7",
+"pred": "VRVG7",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0601396560668945
+},
+{
+"cond": "L2",
+"i": 68,
+"truth": "RGNYVU",
+"raw": "RGNVUU",
+"pred": "RGNVUU",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.085010290145874
+},
+{
+"cond": "L2",
+"i": 69,
+"truth": "259QE",
+"raw": "59QE",
+"pred": "59QE",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.2226836681365967
+},
+{
+"cond": "L2",
+"i": 70,
+"truth": "AWGX8",
+"raw": "AWGX8",
+"pred": "AWGX8",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.067254066467285
+},
+{
+"cond": "L2",
+"i": 71,
+"truth": "738VA",
+"raw": "738V4",
+"pred": "738V4",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.1006088256835938
+},
+{
+"cond": "L2",
+"i": 72,
+"truth": "SXQ5",
+"raw": "SXO5",
+"pred": "SXO5",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.081833839416504
+},
+{
+"cond": "L2",
+"i": 73,
+"truth": "WYJBH",
+"raw": "WJBH",
+"pred": "WJBH",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.074532985687256
+},
+{
+"cond": "L2",
+"i": 74,
+"truth": "6F87AX",
+"raw": "6F87AX",
+"pred": "6F87AX",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.097342014312744
+},
+{
+"cond": "L2",
+"i": 75,
+"truth": "V326AV",
+"raw": "V326A",
+"pred": "V326A",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.1043589115142822
+},
+{
+"cond": "L2",
+"i": 76,
+"truth": "G558",
+"raw": "3558",
+"pred": "3558",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.247539758682251
+},
+{
+"cond": "L2",
+"i": 77,
+"truth": "39FFK6",
+"raw": "BQQFK6",
+"pred": "BQQFK6",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.0687479972839355
+},
+{
+"cond": "L2",
+"i": 78,
+"truth": "WUGG2U",
+"raw": "WUGGU2U",
+"pred": "WUGGU2U",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.105498790740967
+},
+{
+"cond": "L2",
+"i": 79,
+"truth": "3Y86",
+"raw": "3Y86",
+"pred": "3Y86",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0936760902404785
+},
+{
+"cond": "L2",
+"i": 80,
+"truth": "BNVFFX",
+"raw": "BNVFX",
+"pred": "BNVFX",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.061126947402954
+},
+{
+"cond": "L2",
+"i": 81,
+"truth": "Q2T5",
+"raw": "Q2T5",
+"pred": "Q2T5",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.225813388824463
+},
+{
+"cond": "L2",
+"i": 82,
+"truth": "645U",
+"raw": "645U",
+"pred": "645U",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0785791873931885
+},
+{
+"cond": "L2",
+"i": 83,
+"truth": "HDZ4NX",
+"raw": "HD24NX",
+"pred": "HD24NX",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.0960967540740967
+},
+{
+"cond": "L2",
+"i": 84,
+"truth": "UEWRK",
+"raw": "J E W R K",
+"pred": "JEWRK",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.202924966812134
+},
+{
+"cond": "L2",
+"i": 85,
+"truth": "BY8A6",
+"raw": "BY846",
+"pred": "BY846",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.090841054916382
+},
+{
+"cond": "L2",
+"i": 86,
+"truth": "XM6Z",
+"raw": "X M 6 Z",
+"pred": "XM6Z",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.2385647296905518
+},
+{
+"cond": "L2",
+"i": 87,
+"truth": "7CJ7",
+"raw": ">C7",
+"pred": "C7",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.066736936569214
+},
+{
+"cond": "L2",
+"i": 88,
+"truth": "ZGRY56",
+"raw": "ZGRY56",
+"pred": "ZGRY56",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.110806941986084
+},
+{
+"cond": "L2",
+"i": 89,
+"truth": "F5MU9",
+"raw": "F5M9",
+"pred": "F5M9",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.078004837036133
+},
+{
+"cond": "L2",
+"i": 90,
+"truth": "5FE7P",
+"raw": "5FE>P",
+"pred": "5FEP",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.072805166244507
+},
+{
+"cond": "L2",
+"i": 91,
+"truth": "FDC25",
+"raw": "EDC25",
+"pred": "EDC25",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.2419471740722656
+},
+{
+"cond": "L2",
+"i": 92,
+"truth": "H424",
+"raw": "H424",
+"pred": "H424",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0744447708129883
+},
+{
+"cond": "L2",
+"i": 93,
+"truth": "YRYX",
+"raw": "KREX",
+"pred": "KREX",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.0548911094665527
+},
+{
+"cond": "L2",
+"i": 94,
+"truth": "656JZ4",
+"raw": "656124",
+"pred": "656124",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.1223390102386475
+},
+{
+"cond": "L2",
+"i": 95,
+"truth": "GFWAA",
+"raw": "GFWAA",
+"pred": "GFWAA",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.061540126800537
+},
+{
+"cond": "L2",
+"i": 96,
+"truth": "2QP6C3",
+"raw": "2Q6C3",
+"pred": "2Q6C3",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.0853118896484375
+},
+{
+"cond": "L2",
+"i": 97,
+"truth": "MXH4N7",
+"raw": "MXH4N7",
+"pred": "MXH4N7",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.12062406539917
+},
+{
+"cond": "L2",
+"i": 98,
+"truth": "VQWX",
+"raw": "VOWX",
+"pred": "VOWX",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.168022871017456
+},
+{
+"cond": "L2",
+"i": 99,
+"truth": "WMUY",
+"raw": "NMUY",
+"pred": "NMUY",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.1030850410461426
+},
+{
+"cond": "L2",
+"i": 100,
+"truth": "PHYQ",
+"raw": "PHQ",
+"pred": "PHQ",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.0887370109558105
+},
+{
+"cond": "L2",
+"i": 101,
+"truth": "JAUW",
+"raw": "JAUN",
+"pred": "JAUN",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.2165658473968506
+},
+{
+"cond": "L2",
+"i": 102,
+"truth": "ASHF3",
+"raw": "ASHF3",
+"pred": "ASHF3",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0665159225463867
+},
+{
+"cond": "L2",
+"i": 103,
+"truth": "WD4H53",
+"raw": "WD4H53",
+"pred": "WD4H53",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.2622909545898438
+},
+{
+"cond": "L2",
+"i": 104,
+"truth": "8S2ZWU",
+"raw": "8S2ZWV",
+"pred": "8S2ZWV",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.092489004135132
+},
+{
+"cond": "L2",
+"i": 105,
+"truth": "NSC33",
+"raw": "NSC33",
+"pred": "NSC33",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1101980209350586
+},
+{
+"cond": "L2",
+"i": 106,
+"truth": "XCV3R",
+"raw": "ACVR",
+"pred": "ACVR",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.1762378215789795
+},
+{
+"cond": "L2",
+"i": 107,
+"truth": "SV5F",
+"raw": "SV5F",
+"pred": "SV5F",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0714111328125
+},
+{
+"cond": "L2",
+"i": 108,
+"truth": "BAMM",
+"raw": "RAM",
+"pred": "RAM",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.0386788845062256
+},
+{
+"cond": "L2",
+"i": 109,
+"truth": "5PEAYH",
+"raw": "PEYH",
+"pred": "PEYH",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.0720577239990234
+},
+{
+"cond": "L2",
+"i": 110,
+"truth": "DKV7RA",
+"raw": "DKVRAC",
+"pred": "DKVRAC",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.082996129989624
+},
+{
+"cond": "L2",
+"i": 111,
+"truth": "TCW7B",
+"raw": "TCW7B",
+"pred": "TCW7B",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.202043056488037
+},
+{
+"cond": "L2",
+"i": 112,
+"truth": "6XTJRH",
+"raw": "6T3RH",
+"pred": "6T3RH",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.110403060913086
+},
+{
+"cond": "L2",
+"i": 113,
+"truth": "TH2D",
+"raw": "TH2D",
+"pred": "TH2D",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.225957155227661
+},
+{
+"cond": "L2",
+"i": 114,
+"truth": "WT9W2P",
+"raw": "WT9W2P",
+"pred": "WT9W2P",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0848398208618164
+},
+{
+"cond": "L2",
+"i": 115,
+"truth": "HAWP",
+"raw": "HAWP",
+"pred": "HAWP",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0719289779663086
+},
+{
+"cond": "L2",
+"i": 116,
+"truth": "MC8ZM6",
+"raw": "MC8M6",
+"pred": "MC8M6",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.091491937637329
+},
+{
+"cond": "L2",
+"i": 117,
+"truth": "HGC7PP",
+"raw": "HGCP",
+"pred": "HGCP",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.0433878898620605
+},
+{
+"cond": "L2",
+"i": 118,
+"truth": "R8BVG",
+"raw": "RBVG",
+"pred": "RBVG",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.060279130935669
+},
+{
+"cond": "L2",
+"i": 119,
+"truth": "2HK3MP",
+"raw": "2HR3MP",
+"pred": "2HR3MP",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.0839321613311768
+},
+{
+"cond": "L2",
+"i": 120,
+"truth": "VTQK",
+"raw": "VTOK",
+"pred": "VTOK",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.0720832347869873
+},
+{
+"cond": "L2",
+"i": 121,
+"truth": "WF32U",
+"raw": "WF32U",
+"pred": "WF32U",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1760528087615967
+},
+{
+"cond": "L2",
+"i": 122,
+"truth": "AMVKN",
+"raw": "AMIKN",
+"pred": "AMIKN",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.0929248332977295
+},
+{
+"cond": "L2",
+"i": 123,
+"truth": "WDJC",
+"raw": "WJSC",
+"pred": "WJSC",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.0676538944244385
+},
+{
+"cond": "L2",
+"i": 124,
+"truth": "NAG5U",
+"raw": "NAG5U",
+"pred": "NAG5U",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0819647312164307
+},
+{
+"cond": "L2",
+"i": 125,
+"truth": "UX6G",
+"raw": "AF6G",
+"pred": "AF6G",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.1796040534973145
+},
+{
+"cond": "L2",
+"i": 126,
+"truth": "4P42U",
+"raw": "4P42U",
+"pred": "4P42U",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1532254219055176
+},
+{
+"cond": "L2",
+"i": 127,
+"truth": "GM6RBC",
+"raw": "GM6RBC",
+"pred": "GM6RBC",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1016528606414795
+},
+{
+"cond": "L2",
+"i": 128,
+"truth": "ADFC4U",
+"raw": "ADFC4U",
+"pred": "ADFC4U",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.2454769611358643
+},
+{
+"cond": "L2",
+"i": 129,
+"truth": "E7F6X",
+"raw": "E Z F 6 X",
+"pred": "EZF6X",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.1083929538726807
+},
+{
+"cond": "L2",
+"i": 130,
+"truth": "R2F4F",
+"raw": "R2F4F",
+"pred": "R2F4F",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.2660789489746094
+},
+{
+"cond": "L2",
+"i": 131,
+"truth": "BXGX",
+"raw": "BXGX",
+"pred": "BXGX",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0638022422790527
+},
+{
+"cond": "L2",
+"i": 132,
+"truth": "9MTX",
+"raw": "9MTX",
+"pred": "9MTX",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0725719928741455
+},
+{
+"cond": "L2",
+"i": 133,
+"truth": "M7DHX",
+"raw": "M7DHX",
+"pred": "M7DHX",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.2161500453948975
+},
+{
+"cond": "L2",
+"i": 134,
+"truth": "BBRPG",
+"raw": "BRPG",
+"pred": "BRPG",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.078267812728882
+},
+{
+"cond": "L2",
+"i": 135,
+"truth": "KT2Q",
+"raw": "KT2Q",
+"pred": "KT2Q",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.2046620845794678
+},
+{
+"cond": "L2",
+"i": 136,
+"truth": "7MD2N",
+"raw": "MD2N",
+"pred": "MD2N",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.0753698348999023
+},
+{
+"cond": "L2",
+"i": 137,
+"truth": "HGTTV",
+"raw": "HGTTV",
+"pred": "HGTTV",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0989649295806885
+},
+{
+"cond": "L2",
+"i": 138,
+"truth": "ZX6W",
+"raw": "Z X 6 W",
+"pred": "ZX6W",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.214475154876709
+},
+{
+"cond": "L2",
+"i": 139,
+"truth": "3F2U",
+"raw": "RE2U",
+"pred": "RE2U",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.085131883621216
+},
+{
+"cond": "L2",
+"i": 140,
+"truth": "89RR3",
+"raw": "89RR3",
+"pred": "89RR3",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.2403411865234375
+},
+{
+"cond": "L2",
+"i": 141,
+"truth": "MGCFTD",
+"raw": "GCFTD",
+"pred": "GCFTD",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.056292772293091
+},
+{
+"cond": "L2",
+"i": 142,
+"truth": "PYF5Z",
+"raw": "P Y F 5 2",
+"pred": "PYF52",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.1343579292297363
+},
+{
+"cond": "L2",
+"i": 143,
+"truth": "H48E",
+"raw": "H48E",
+"pred": "H48E",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.088114023208618
+},
+{
+"cond": "L2",
+"i": 144,
+"truth": "TAK55",
+"raw": "TA55",
+"pred": "TA55",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.056105136871338
+},
+{
+"cond": "L2",
+"i": 145,
+"truth": "DSWG",
+"raw": "DSWG",
+"pred": "DSWG",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0557289123535156
+},
+{
+"cond": "L2",
+"i": 146,
+"truth": "V8C8FX",
+"raw": "V8C8FX",
+"pred": "V8C8FX",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.111046314239502
+},
+{
+"cond": "L2",
+"i": 147,
+"truth": "JPC828",
+"raw": "PC828",
+"pred": "PC828",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.078427314758301
+},
+{
+"cond": "L2",
+"i": 148,
+"truth": "44252B",
+"raw": "44252B",
+"pred": "44252B",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1182961463928223
+},
+{
+"cond": "L2",
+"i": 149,
+"truth": "GAY7",
+"raw": "GAY",
+"pred": "GAY",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.0633621215820312
+},
+{
+"cond": "L3",
+"i": 0,
+"truth": "VXYG",
+"raw": "A72",
+"pred": "A72",
+"ok": false,
+"cer": 1.0,
+"latency_s": 2.0607101917266846
+},
+{
+"cond": "L3",
+"i": 1,
+"truth": "NVAN3",
+"raw": "AAN3",
+"pred": "AAN3",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.063815116882324
+},
+{
+"cond": "L3",
+"i": 2,
+"truth": "47PCYV",
+"raw": "AZPCW",
+"pred": "AZPCW",
+"ok": false,
+"cer": 0.6666666666666666,
+"latency_s": 2.099674940109253
+},
+{
+"cond": "L3",
+"i": 3,
+"truth": "AZUV",
+"raw": "A Z V U",
+"pred": "AZVU",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.1069321632385254
+},
+{
+"cond": "L3",
+"i": 4,
+"truth": "C97J7T",
+"raw": "ZJRK",
+"pred": "ZJRK",
+"ok": false,
+"cer": 0.8333333333333334,
+"latency_s": 2.1006510257720947
+},
+{
+"cond": "L3",
+"i": 5,
+"truth": "JCBC48",
+"raw": "JCBC48",
+"pred": "JCBC48",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1870529651641846
+},
+{
+"cond": "L3",
+"i": 6,
+"truth": "Z6QAN",
+"raw": "Z6RAV",
+"pred": "Z6RAV",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.099989891052246
+},
+{
+"cond": "L3",
+"i": 7,
+"truth": "AH5PF",
+"raw": "AHPPE",
+"pred": "AHPPE",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.2038118839263916
+},
+{
+"cond": "L3",
+"i": 8,
+"truth": "VJ6VXJ",
+"raw": "KIDJ",
+"pred": "KIDJ",
+"ok": false,
+"cer": 0.8333333333333334,
+"latency_s": 2.0804429054260254
+},
+{
+"cond": "L3",
+"i": 9,
+"truth": "NEP22",
+"raw": "NER22",
+"pred": "NER22",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.078282117843628
+},
+{
+"cond": "L3",
+"i": 10,
+"truth": "8TEC7",
+"raw": "8TEC7",
+"pred": "8TEC7",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0558977127075195
+},
+{
+"cond": "L3",
+"i": 11,
+"truth": "BRED",
+"raw": "BRED",
+"pred": "BRED",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0596978664398193
+},
+{
+"cond": "L3",
+"i": 12,
+"truth": "P7939",
+"raw": "P939",
+"pred": "P939",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.0846478939056396
+},
+{
+"cond": "L3",
+"i": 13,
+"truth": "4EZ5",
+"raw": "AZ98",
+"pred": "AZ98",
+"ok": false,
+"cer": 1.0,
+"latency_s": 2.065614938735962
+},
+{
+"cond": "L3",
+"i": 14,
+"truth": "FERGS5",
+"raw": "FERGS5",
+"pred": "FERGS5",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.065380096435547
+},
+{
+"cond": "L3",
+"i": 15,
+"truth": "23EH",
+"raw": "2SEH",
+"pred": "2SEH",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.077554941177368
+},
+{
+"cond": "L3",
+"i": 16,
+"truth": "H3MJJ",
+"raw": "AOMD",
+"pred": "AOMD",
+"ok": false,
+"cer": 0.8,
+"latency_s": 2.064990997314453
+},
+{
+"cond": "L3",
+"i": 17,
+"truth": "BDBFPU",
+"raw": "BOPU",
+"pred": "BOPU",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.0444250106811523
+},
+{
+"cond": "L3",
+"i": 18,
+"truth": "35K6U",
+"raw": "85K6U",
+"pred": "85K6U",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.0988311767578125
+},
+{
+"cond": "L3",
+"i": 19,
+"truth": "WAGBA6",
+"raw": "WAGDA6",
+"pred": "WAGDA6",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.165296792984009
+},
+{
+"cond": "L3",
+"i": 20,
+"truth": "RU7SH",
+"raw": "RUSH",
+"pred": "RUSH",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.088999032974243
+},
+{
+"cond": "L3",
+"i": 21,
+"truth": "J3HF",
+"raw": "Z9B7",
+"pred": "Z9B7",
+"ok": false,
+"cer": 1.0,
+"latency_s": 2.1007230281829834
+},
+{
+"cond": "L3",
+"i": 22,
+"truth": "HPHDC",
+"raw": "APDC",
+"pred": "APDC",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.1940670013427734
+},
+{
+"cond": "L3",
+"i": 23,
+"truth": "SUQQXD",
+"raw": "PURND",
+"pred": "PURND",
+"ok": false,
+"cer": 0.6666666666666666,
+"latency_s": 2.048396110534668
+},
+{
+"cond": "L3",
+"i": 24,
+"truth": "F4STAQ",
+"raw": "TAIO",
+"pred": "TAIO",
+"ok": false,
+"cer": 0.8333333333333334,
+"latency_s": 2.195688247680664
+},
+{
+"cond": "L3",
+"i": 25,
+"truth": "GQGE",
+"raw": "GOOGE",
+"pred": "GOOGE",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.0834403038024902
+},
+{
+"cond": "L3",
+"i": 26,
+"truth": "ACX8",
+"raw": "AX8",
+"pred": "AX8",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.0596518516540527
+},
+{
+"cond": "L3",
+"i": 27,
+"truth": "SGMDN",
+"raw": "SGMN",
+"pred": "SGMN",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.064974069595337
+},
+{
+"cond": "L3",
+"i": 28,
+"truth": "9P5MX5",
+"raw": "A25445",
+"pred": "A25445",
+"ok": false,
+"cer": 0.6666666666666666,
+"latency_s": 2.1082210540771484
+},
+{
+"cond": "L3",
+"i": 29,
+"truth": "D558",
+"raw": "4558",
+"pred": "4558",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.0756757259368896
+},
+{
+"cond": "L3",
+"i": 30,
+"truth": "U7RS",
+"raw": "APRS",
+"pred": "APRS",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.057400941848755
+},
+{
+"cond": "L3",
+"i": 31,
+"truth": "C55Y",
+"raw": "6551",
+"pred": "6551",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.0921030044555664
+},
+{
+"cond": "L3",
+"i": 32,
+"truth": "VFTNUC",
+"raw": "VFNC",
+"pred": "VFNC",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.0624239444732666
+},
+{
+"cond": "L3",
+"i": 33,
+"truth": "98GZ",
+"raw": "98CZ",
+"pred": "98CZ",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.0809872150421143
+},
+{
+"cond": "L3",
+"i": 34,
+"truth": "ZPYQUE",
+"raw": "APOL",
+"pred": "APOL",
+"ok": false,
+"cer": 0.8333333333333334,
+"latency_s": 2.211169719696045
+},
+{
+"cond": "L3",
+"i": 35,
+"truth": "VE5QY9",
+"raw": "LESQ9",
+"pred": "LESQ9",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.0704331398010254
+},
+{
+"cond": "L3",
+"i": 36,
+"truth": "XFHWJ",
+"raw": "XFHWIJ",
+"pred": "XFHWIJ",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.096658945083618
+},
+{
+"cond": "L3",
+"i": 37,
+"truth": "JJUBKB",
+"raw": "ABKB",
+"pred": "ABKB",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.060817003250122
+},
+{
+"cond": "L3",
+"i": 38,
+"truth": "9NSQU",
+"raw": "AQSQ",
+"pred": "AQSQ",
+"ok": false,
+"cer": 0.6,
+"latency_s": 2.06888484954834
+},
+{
+"cond": "L3",
+"i": 39,
+"truth": "ZXQE",
+"raw": "AQE",
+"pred": "AQE",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.0443601608276367
+},
+{
+"cond": "L3",
+"i": 40,
+"truth": "DPMXC",
+"raw": "APMC",
+"pred": "APMC",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.062412977218628
+},
+{
+"cond": "L3",
+"i": 41,
+"truth": "BU7GK",
+"raw": "AUGK",
+"pred": "AUGK",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.0695180892944336
+},
+{
+"cond": "L3",
+"i": 42,
+"truth": "JBMF",
+"raw": "JBMV",
+"pred": "JBMV",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.0643162727355957
+},
+{
+"cond": "L3",
+"i": 43,
+"truth": "U9DVQ",
+"raw": "ABNO",
+"pred": "ABNO",
+"ok": false,
+"cer": 1.0,
+"latency_s": 2.046766996383667
+},
+{
+"cond": "L3",
+"i": 44,
+"truth": "BSHT",
+"raw": "B97",
+"pred": "B97",
+"ok": false,
+"cer": 0.75,
+"latency_s": 2.0756542682647705
+},
+{
+"cond": "L3",
+"i": 45,
+"truth": "UP8J",
+"raw": "QZ9\n",
+"pred": "QZ9",
+"ok": false,
+"cer": 1.0,
+"latency_s": 2.0764260292053223
+},
+{
+"cond": "L3",
+"i": 46,
+"truth": "CAGPZD",
+"raw": "ACPD",
+"pred": "ACPD",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.0657289028167725
+},
+{
+"cond": "L3",
+"i": 47,
+"truth": "M4MK",
+"raw": "AVNK",
+"pred": "AVNK",
+"ok": false,
+"cer": 0.75,
+"latency_s": 2.1858088970184326
+},
+{
+"cond": "L3",
+"i": 48,
+"truth": "T2ZMES",
+"raw": "TRLES",
+"pred": "TRLES",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.063833713531494
+},
+{
+"cond": "L3",
+"i": 49,
+"truth": "2G9G",
+"raw": "GGGG",
+"pred": "GGGG",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.0572729110717773
+},
+{
+"cond": "L3",
+"i": 50,
+"truth": "MY4283",
+"raw": "MA9783",
+"pred": "MA9783",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.1018857955932617
+},
+{
+"cond": "L3",
+"i": 51,
+"truth": "TQT4U9",
+"raw": "T469",
+"pred": "T469",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.1290369033813477
+},
+{
+"cond": "L3",
+"i": 52,
+"truth": "F66YMA",
+"raw": "F66NA",
+"pred": "F66NA",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.185197114944458
+},
+{
+"cond": "L3",
+"i": 53,
+"truth": "SXZJP",
+"raw": "SXZP",
+"pred": "SXZP",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.0718472003936768
+},
+{
+"cond": "L3",
+"i": 54,
+"truth": "WSYXC",
+"raw": "WXYZ",
+"pred": "WXYZ",
+"ok": false,
+"cer": 0.6,
+"latency_s": 2.062497138977051
+},
+{
+"cond": "L3",
+"i": 55,
+"truth": "8FAUY",
+"raw": "STAY",
+"pred": "STAY",
+"ok": false,
+"cer": 0.6,
+"latency_s": 2.0601370334625244
+},
+{
+"cond": "L3",
+"i": 56,
+"truth": "T783W",
+"raw": "A89U",
+"pred": "A89U",
+"ok": false,
+"cer": 0.8,
+"latency_s": 2.0944020748138428
+},
+{
+"cond": "L3",
+"i": 57,
+"truth": "MQVWDM",
+"raw": "VOLDA",
+"pred": "VOLDA",
+"ok": false,
+"cer": 0.8333333333333334,
+"latency_s": 2.1541249752044678
+},
+{
+"cond": "L3",
+"i": 58,
+"truth": "H927",
+"raw": "H92>",
+"pred": "H92",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.1325249671936035
+},
+{
+"cond": "L3",
+"i": 59,
+"truth": "BD39VZ",
+"raw": "BD3V2",
+"pred": "BD3V2",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.214235305786133
+},
+{
+"cond": "L3",
+"i": 60,
+"truth": "6N9QB",
+"raw": "ON99B",
+"pred": "ON99B",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.0866169929504395
+},
+{
+"cond": "L3",
+"i": 61,
+"truth": "3K46N",
+"raw": "SK45N",
+"pred": "SK45N",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.1335830688476562
+},
+{
+"cond": "L3",
+"i": 62,
+"truth": "QG3G",
+"raw": "QG3G",
+"pred": "QG3G",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0902342796325684
+},
+{
+"cond": "L3",
+"i": 63,
+"truth": "WTGC",
+"raw": "WGC",
+"pred": "WGC",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.066871166229248
+},
+{
+"cond": "L3",
+"i": 64,
+"truth": "53HD",
+"raw": "BNDD",
+"pred": "BNDD",
+"ok": false,
+"cer": 0.75,
+"latency_s": 2.153663158416748
+},
+{
+"cond": "L3",
+"i": 65,
+"truth": "QRR47",
+"raw": "ORR47",
+"pred": "ORR47",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.1067848205566406
+},
+{
+"cond": "L3",
+"i": 66,
+"truth": "P7BB5C",
+"raw": "R7E5C",
+"pred": "R7E5C",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.2270798683166504
+},
+{
+"cond": "L3",
+"i": 67,
+"truth": "R285D3",
+"raw": "28503",
+"pred": "28503",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.1607770919799805
+},
+{
+"cond": "L3",
+"i": 68,
+"truth": "HJDKP",
+"raw": "HDKP",
+"pred": "HDKP",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.1428771018981934
+},
+{
+"cond": "L3",
+"i": 69,
+"truth": "Y5X5",
+"raw": "555",
+"pred": "555",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.205535888671875
+},
+{
+"cond": "L3",
+"i": 70,
+"truth": "9NYX",
+"raw": "ZNYX",
+"pred": "ZNYX",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.064387083053589
+},
+{
+"cond": "L3",
+"i": 71,
+"truth": "7HM5",
+"raw": "7R5",
+"pred": "7R5",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.3548779487609863
+},
+{
+"cond": "L3",
+"i": 72,
+"truth": "ECCK",
+"raw": "ECCC",
+"pred": "ECCC",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.0678629875183105
+},
+{
+"cond": "L3",
+"i": 73,
+"truth": "2CMJX",
+"raw": "ROUX",
+"pred": "ROUX",
+"ok": false,
+"cer": 0.8,
+"latency_s": 2.172473669052124
+},
+{
+"cond": "L3",
+"i": 74,
+"truth": "NWDG",
+"raw": "JGDG",
+"pred": "JGDG",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.0948710441589355
+},
+{
+"cond": "L3",
+"i": 75,
+"truth": "4GRW",
+"raw": "AGNW",
+"pred": "AGNW",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.064784288406372
+},
+{
+"cond": "L3",
+"i": 76,
+"truth": "NDK4S",
+"raw": "DKPD",
+"pred": "DKPD",
+"ok": false,
+"cer": 0.6,
+"latency_s": 2.2037158012390137
+},
+{
+"cond": "L3",
+"i": 77,
+"truth": "CEK8KT",
+"raw": "DE84",
+"pred": "DE84",
+"ok": false,
+"cer": 0.6666666666666666,
+"latency_s": 2.0845839977264404
+},
+{
+"cond": "L3",
+"i": 78,
+"truth": "JASY",
+"raw": "JASY",
+"pred": "JASY",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.060832977294922
+},
+{
+"cond": "L3",
+"i": 79,
+"truth": "NJV2CS",
+"raw": "WNRCS",
+"pred": "WNRCS",
+"ok": false,
+"cer": 0.6666666666666666,
+"latency_s": 2.0672860145568848
+},
+{
+"cond": "L3",
+"i": 80,
+"truth": "NY2Y3",
+"raw": "N23",
+"pred": "N23",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.0893471240997314
+},
+{
+"cond": "L3",
+"i": 81,
+"truth": "UQQPE",
+"raw": "LDORE",
+"pred": "LDORE",
+"ok": false,
+"cer": 0.8,
+"latency_s": 2.0843160152435303
+},
+{
+"cond": "L3",
+"i": 82,
+"truth": "3QWBYT",
+"raw": "ABXQ",
+"pred": "ABXQ",
+"ok": false,
+"cer": 0.8333333333333334,
+"latency_s": 2.068747043609619
+},
+{
+"cond": "L3",
+"i": 83,
+"truth": "AMNZ7U",
+"raw": "ARU",
+"pred": "ARU",
+"ok": false,
+"cer": 0.6666666666666666,
+"latency_s": 2.2383689880371094
+},
+{
+"cond": "L3",
+"i": 84,
+"truth": "GR2F",
+"raw": "GRSF",
+"pred": "GRSF",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.0567498207092285
+},
+{
+"cond": "L3",
+"i": 85,
+"truth": "D8V3K",
+"raw": "DBtok",
+"pred": "DBTOK",
+"ok": false,
+"cer": 0.6,
+"latency_s": 2.0579769611358643
+},
+{
+"cond": "L3",
+"i": 86,
+"truth": "HY7X",
+"raw": "Q7Z",
+"pred": "Q7Z",
+"ok": false,
+"cer": 0.75,
+"latency_s": 2.072796106338501
+},
+{
+"cond": "L3",
+"i": 87,
+"truth": "XGCWQ3",
+"raw": "AEOQZ",
+"pred": "AEOQZ",
+"ok": false,
+"cer": 0.8333333333333334,
+"latency_s": 2.085258960723877
+},
+{
+"cond": "L3",
+"i": 88,
+"truth": "EX27",
+"raw": "A27",
+"pred": "A27",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.221881866455078
+},
+{
+"cond": "L3",
+"i": 89,
+"truth": "KM3BNJ",
+"raw": "KRPN",
+"pred": "KRPN",
+"ok": false,
+"cer": 0.6666666666666666,
+"latency_s": 2.196847915649414
+},
+{
+"cond": "L3",
+"i": 90,
+"truth": "G3SE7V",
+"raw": "ZELV",
+"pred": "ZELV",
+"ok": false,
+"cer": 0.6666666666666666,
+"latency_s": 2.2248690128326416
+},
+{
+"cond": "L3",
+"i": 91,
+"truth": "G6RN3",
+"raw": "G6RN3",
+"pred": "G6RN3",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1883058547973633
+},
+{
+"cond": "L3",
+"i": 92,
+"truth": "5RRU",
+"raw": "SRRU",
+"pred": "SRRU",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.0817930698394775
+},
+{
+"cond": "L3",
+"i": 93,
+"truth": "MZHUM",
+"raw": "VETCM",
+"pred": "VETCM",
+"ok": false,
+"cer": 0.8,
+"latency_s": 2.0849709510803223
+},
+{
+"cond": "L3",
+"i": 94,
+"truth": "93XB",
+"raw": "937B",
+"pred": "937B",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.104475736618042
+},
+{
+"cond": "L3",
+"i": 95,
+"truth": "U68P8N",
+"raw": "U68P8N",
+"pred": "U68P8N",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.284625291824341
+},
+{
+"cond": "L3",
+"i": 96,
+"truth": "F73F",
+"raw": "F13F",
+"pred": "F13F",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.0940029621124268
+},
+{
+"cond": "L3",
+"i": 97,
+"truth": "G8Z45T",
+"raw": "GZ45T",
+"pred": "GZ45T",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.1160309314727783
+},
+{
+"cond": "L3",
+"i": 98,
+"truth": "F74488",
+"raw": "F7448B",
+"pred": "F7448B",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.139029026031494
+},
+{
+"cond": "L3",
+"i": 99,
+"truth": "DDRAQ",
+"raw": "APTO",
+"pred": "APTO",
+"ok": false,
+"cer": 1.0,
+"latency_s": 2.0923449993133545
+},
+{
+"cond": "L3",
+"i": 100,
+"truth": "7A27R",
+"raw": "Z42R",
+"pred": "Z42R",
+"ok": false,
+"cer": 0.6,
+"latency_s": 2.283257007598877
+},
+{
+"cond": "L3",
+"i": 101,
+"truth": "KW52EV",
+"raw": "KNSZEV",
+"pred": "KNSZEV",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.133727788925171
+},
+{
+"cond": "L3",
+"i": 102,
+"truth": "7XFDAF",
+"raw": "FEDAY",
+"pred": "FEDAY",
+"ok": false,
+"cer": 0.6666666666666666,
+"latency_s": 2.2519900798797607
+},
+{
+"cond": "L3",
+"i": 103,
+"truth": "BNQA",
+"raw": "BNDA",
+"pred": "BNDA",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.105818033218384
+},
+{
+"cond": "L3",
+"i": 104,
+"truth": "9M57T",
+"raw": "9M517",
+"pred": "9M517",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.101412773132324
+},
+{
+"cond": "L3",
+"i": 105,
+"truth": "PX842",
+"raw": "P1872",
+"pred": "P1872",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.223794937133789
+},
+{
+"cond": "L3",
+"i": 106,
+"truth": "762ZZ3",
+"raw": "X62Z3",
+"pred": "X62Z3",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.131253957748413
+},
+{
+"cond": "L3",
+"i": 107,
+"truth": "YR98RR",
+"raw": "PRRR",
+"pred": "PRRR",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.2288739681243896
+},
+{
+"cond": "L3",
+"i": 108,
+"truth": "5NAJ5J",
+"raw": "QWJST",
+"pred": "QWJST",
+"ok": false,
+"cer": 0.8333333333333334,
+"latency_s": 2.123224973678589
+},
+{
+"cond": "L3",
+"i": 109,
+"truth": "KSZ5X",
+"raw": "R75X",
+"pred": "R75X",
+"ok": false,
+"cer": 0.6,
+"latency_s": 2.1011979579925537
+},
+{
+"cond": "L3",
+"i": 110,
+"truth": "KH585D",
+"raw": "A4585",
+"pred": "A4585",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.1049420833587646
+},
+{
+"cond": "L3",
+"i": 111,
+"truth": "N5MAUJ",
+"raw": "A5MU",
+"pred": "A5MU",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.116227865219116
+},
+{
+"cond": "L3",
+"i": 112,
+"truth": "XA3WJF",
+"raw": "AZIJ",
+"pred": "AZIJ",
+"ok": false,
+"cer": 0.6666666666666666,
+"latency_s": 2.2399110794067383
+},
+{
+"cond": "L3",
+"i": 113,
+"truth": "WKBC",
+"raw": "ABCE",
+"pred": "ABCE",
+"ok": false,
+"cer": 0.75,
+"latency_s": 2.1210010051727295
+},
+{
+"cond": "L3",
+"i": 114,
+"truth": "A9FW5N",
+"raw": "AOWEN",
+"pred": "AOWEN",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.236435890197754
+},
+{
+"cond": "L3",
+"i": 115,
+"truth": "95ZCGK",
+"raw": "Z5C6K",
+"pred": "Z5C6K",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.09427809715271
+},
+{
+"cond": "L3",
+"i": 116,
+"truth": "BC3U5",
+"raw": "BC5US",
+"pred": "BC5US",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.1011672019958496
+},
+{
+"cond": "L3",
+"i": 117,
+"truth": "TDKKB",
+"raw": "DKKB",
+"pred": "DKKB",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.1744771003723145
+},
+{
+"cond": "L3",
+"i": 118,
+"truth": "ARMRY",
+"raw": "YRNRY",
+"pred": "YRNRY",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.0848751068115234
+},
+{
+"cond": "L3",
+"i": 119,
+"truth": "XW7X",
+"raw": "JNDX",
+"pred": "JNDX",
+"ok": false,
+"cer": 0.75,
+"latency_s": 2.103957176208496
+},
+{
+"cond": "L3",
+"i": 120,
+"truth": "KV7RC",
+"raw": "KIRC",
+"pred": "KIRC",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.0749688148498535
+},
+{
+"cond": "L3",
+"i": 121,
+"truth": "2GTDF6",
+"raw": "GTDF6",
+"pred": "GTDF6",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.0923960208892822
+},
+{
+"cond": "L3",
+"i": 122,
+"truth": "SEMVR9",
+"raw": "SIVIRO9",
+"pred": "SIVIRO9",
+"ok": false,
+"cer": 0.6666666666666666,
+"latency_s": 2.1982691287994385
+},
+{
+"cond": "L3",
+"i": 123,
+"truth": "EHFFE",
+"raw": "EHFFE",
+"pred": "EHFFE",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.107404947280884
+},
+{
+"cond": "L3",
+"i": 124,
+"truth": "UG48",
+"raw": "UGC48",
+"pred": "UGC48",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.250977039337158
+},
+{
+"cond": "L3",
+"i": 125,
+"truth": "HQV9KF",
+"raw": "HQVGF",
+"pred": "HQVGF",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.076019763946533
+},
+{
+"cond": "L3",
+"i": 126,
+"truth": "A3GKKS",
+"raw": "ASGKS",
+"pred": "ASGKS",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.174312114715576
+},
+{
+"cond": "L3",
+"i": 127,
+"truth": "3V4C77",
+"raw": "PACT",
+"pred": "PACT",
+"ok": false,
+"cer": 0.8333333333333334,
+"latency_s": 2.103440046310425
+},
+{
+"cond": "L3",
+"i": 128,
+"truth": "5C9K5A",
+"raw": "OKASA",
+"pred": "OKASA",
+"ok": false,
+"cer": 0.8333333333333334,
+"latency_s": 2.0707619190216064
+},
+{
+"cond": "L3",
+"i": 129,
+"truth": "2WXVQ",
+"raw": "QVO",
+"pred": "QVO",
+"ok": false,
+"cer": 0.8,
+"latency_s": 2.0804061889648438
+},
+{
+"cond": "L3",
+"i": 130,
+"truth": "Y6T4TA",
+"raw": "K6TTA",
+"pred": "K6TTA",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.0850040912628174
+},
+{
+"cond": "L3",
+"i": 131,
+"truth": "AER9D",
+"raw": "AEROD",
+"pred": "AEROD",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.216672897338867
+},
+{
+"cond": "L3",
+"i": 132,
+"truth": "HK8N6",
+"raw": "K9NB",
+"pred": "K9NB",
+"ok": false,
+"cer": 0.6,
+"latency_s": 2.1060338020324707
+},
+{
+"cond": "L3",
+"i": 133,
+"truth": "87NMP",
+"raw": "TAVR",
+"pred": "TAVR",
+"ok": false,
+"cer": 1.0,
+"latency_s": 2.10383677482605
+},
+{
+"cond": "L3",
+"i": 134,
+"truth": "RU6BS",
+"raw": "RUBS",
+"pred": "RUBS",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.1718199253082275
+},
+{
+"cond": "L3",
+"i": 135,
+"truth": "TGZ59U",
+"raw": "TG>59U",
+"pred": "TG59U",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.115731954574585
+},
+{
+"cond": "L3",
+"i": 136,
+"truth": "2BXGAF",
+"raw": "2B+GAF",
+"pred": "2BGAF",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.110682964324951
+},
+{
+"cond": "L3",
+"i": 137,
+"truth": "UQH2P",
+"raw": "QRPD",
+"pred": "QRPD",
+"ok": false,
+"cer": 0.8,
+"latency_s": 2.0774290561676025
+},
+{
+"cond": "L3",
+"i": 138,
+"truth": "WF34ZQ",
+"raw": "W3Q",
+"pred": "W3Q",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.0876688957214355
+},
+{
+"cond": "L3",
+"i": 139,
+"truth": "YPX7J",
+"raw": "P7J",
+"pred": "P7J",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.0788002014160156
+},
+{
+"cond": "L3",
+"i": 140,
+"truth": "ZT89",
+"raw": "KTSO",
+"pred": "KTSO",
+"ok": false,
+"cer": 0.75,
+"latency_s": 2.0724189281463623
+},
+{
+"cond": "L3",
+"i": 141,
+"truth": "9XMEB",
+"raw": "QMB",
+"pred": "QMB",
+"ok": false,
+"cer": 0.6,
+"latency_s": 2.0712523460388184
+},
+{
+"cond": "L3",
+"i": 142,
+"truth": "CKKE",
+"raw": "KKE\n",
+"pred": "KKE",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.081463098526001
+},
+{
+"cond": "L3",
+"i": 143,
+"truth": "J88TH",
+"raw": "ISST",
+"pred": "ISST",
+"ok": false,
+"cer": 0.8,
+"latency_s": 2.0525810718536377
+},
+{
+"cond": "L3",
+"i": 144,
+"truth": "5B843",
+"raw": "BB843",
+"pred": "BB843",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.105087995529175
+},
+{
+"cond": "L3",
+"i": 145,
+"truth": "X8US",
+"raw": "A859",
+"pred": "A859",
+"ok": false,
+"cer": 0.75,
+"latency_s": 2.105039119720459
+},
+{
+"cond": "L3",
+"i": 146,
+"truth": "3676W",
+"raw": "679W",
+"pred": "679W",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.246703863143921
+},
+{
+"cond": "L3",
+"i": 147,
+"truth": "QBRT4A",
+"raw": "QBRT44",
+"pred": "QBRT44",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.1070868968963623
+},
+{
+"cond": "L3",
+"i": 148,
+"truth": "3ZR8R",
+"raw": "ZR8P",
+"pred": "ZR8P",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.09761905670166
+},
+{
+"cond": "L3",
+"i": 149,
+"truth": "VUH2A",
+"raw": "VURA",
+"pred": "VURA",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.0655088424682617
+},
+{
+"cond": "G1",
+"i": 0,
+"truth": "82DWXG",
+"raw": "820W XG",
+"pred": "820WXG",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.0604259967803955
+},
+{
+"cond": "G1",
+"i": 1,
+"truth": "HCR5Q",
+"raw": "HC50",
+"pred": "HC50",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.190358877182007
+},
+{
+"cond": "G1",
+"i": 2,
+"truth": "4DJT",
+"raw": "ADJT",
+"pred": "ADJT",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.0723540782928467
+},
+{
+"cond": "G1",
+"i": 3,
+"truth": "E8KZ",
+"raw": "E8KZ",
+"pred": "E8KZ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.2378129959106445
+},
+{
+"cond": "G1",
+"i": 4,
+"truth": "QMWG",
+"raw": "QMWG",
+"pred": "QMWG",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.085994005203247
+},
+{
+"cond": "G1",
+"i": 5,
+"truth": "MSG5T7",
+"raw": "MSGST7",
+"pred": "MSGST7",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.077347755432129
+},
+{
+"cond": "G1",
+"i": 6,
+"truth": "SST6",
+"raw": "ST6",
+"pred": "ST6",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.067656993865967
+},
+{
+"cond": "G1",
+"i": 7,
+"truth": "HDD47",
+"raw": "HDD47",
+"pred": "HDD47",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.085391044616699
+},
+{
+"cond": "G1",
+"i": 8,
+"truth": "DRQM",
+"raw": "DRQM",
+"pred": "DRQM",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0625412464141846
+},
+{
+"cond": "G1",
+"i": 9,
+"truth": "RD6NKH",
+"raw": "ADVKH",
+"pred": "ADVKH",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.0793352127075195
+},
+{
+"cond": "G1",
+"i": 10,
+"truth": "3PJK",
+"raw": "PJK",
+"pred": "PJK",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.1277740001678467
+},
+{
+"cond": "G1",
+"i": 11,
+"truth": "QTX66D",
+"raw": "Q T X 6 6 D",
+"pred": "QTX66D",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.219534158706665
+},
+{
+"cond": "G1",
+"i": 12,
+"truth": "EKPQCF",
+"raw": "EKQCF",
+"pred": "EKQCF",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.092862129211426
+},
+{
+"cond": "G1",
+"i": 13,
+"truth": "AFAP2Y",
+"raw": "A.M.P2.Y",
+"pred": "AMP2Y",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.2972359657287598
+},
+{
+"cond": "G1",
+"i": 14,
+"truth": "7ZE45",
+"raw": "7LEA5",
+"pred": "7LEA5",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.072957992553711
+},
+{
+"cond": "G1",
+"i": 15,
+"truth": "528ZAX",
+"raw": "52824X",
+"pred": "52824X",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.2690272331237793
+},
+{
+"cond": "G1",
+"i": 16,
+"truth": "C9BV5S",
+"raw": "Bv55",
+"pred": "BV55",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.101142168045044
+},
+{
+"cond": "G1",
+"i": 17,
+"truth": "5UPZ7",
+"raw": "Z P Z 1",
+"pred": "ZPZ1",
+"ok": false,
+"cer": 0.6,
+"latency_s": 2.1038949489593506
+},
+{
+"cond": "G1",
+"i": 18,
+"truth": "8SVG3",
+"raw": "8SN3",
+"pred": "8SN3",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.0734567642211914
+},
+{
+"cond": "G1",
+"i": 19,
+"truth": "Q68DBC",
+"raw": "Q68.D8.C",
+"pred": "Q68D8C",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.1611547470092773
+},
+{
+"cond": "G1",
+"i": 20,
+"truth": "5KCP",
+"raw": "5KCP",
+"pred": "5KCP",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.2139759063720703
+},
+{
+"cond": "G1",
+"i": 21,
+"truth": "JE5Y7T",
+"raw": "J5Y7",
+"pred": "J5Y7",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.0960659980773926
+},
+{
+"cond": "G1",
+"i": 22,
+"truth": "6QAVV8",
+"raw": "60A8",
+"pred": "60A8",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.117064952850342
+},
+{
+"cond": "G1",
+"i": 23,
+"truth": "8GSQZ",
+"raw": "865:Q>",
+"pred": "865Q",
+"ok": false,
+"cer": 0.6,
+"latency_s": 2.2314131259918213
+},
+{
+"cond": "G1",
+"i": 24,
+"truth": "BXKB2Y",
+"raw": "BXB2Y",
+"pred": "BXB2Y",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.113802194595337
+},
+{
+"cond": "G1",
+"i": 25,
+"truth": "6PTQM",
+"raw": "6PTQM",
+"pred": "6PTQM",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.238548994064331
+},
+{
+"cond": "G1",
+"i": 26,
+"truth": "SCQFYH",
+"raw": "SCFYH",
+"pred": "SCFYH",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.068871021270752
+},
+{
+"cond": "G1",
+"i": 27,
+"truth": "FEBRW",
+"raw": "FEBRW",
+"pred": "FEBRW",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0881600379943848
+},
+{
+"cond": "G1",
+"i": 28,
+"truth": "KJF9M",
+"raw": "K F9 M",
+"pred": "KF9M",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.096295118331909
+},
+{
+"cond": "G1",
+"i": 29,
+"truth": "85WU3",
+"raw": "85W U3",
+"pred": "85WU3",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1002390384674072
+},
+{
+"cond": "G1",
+"i": 30,
+"truth": "E5VZ",
+"raw": "E5V2",
+"pred": "E5V2",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.238119125366211
+},
+{
+"cond": "G1",
+"i": 31,
+"truth": "VV8H",
+"raw": "V8H",
+"pred": "V8H",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.0869781970977783
+},
+{
+"cond": "G1",
+"i": 32,
+"truth": "NG363W",
+"raw": "N.G.3.63 W",
+"pred": "NG363W",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.320585012435913
+},
+{
+"cond": "G1",
+"i": 33,
+"truth": "B4AS2N",
+"raw": "BA52N",
+"pred": "BA52N",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.0924570560455322
+},
+{
+"cond": "G1",
+"i": 34,
+"truth": "XFN6",
+"raw": "XF N6",
+"pred": "XFN6",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.105686902999878
+},
+{
+"cond": "G1",
+"i": 35,
+"truth": "CS2N",
+"raw": "CS2N",
+"pred": "CS2N",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.209869146347046
+},
+{
+"cond": "G1",
+"i": 36,
+"truth": "QQKC",
+"raw": "QQKC",
+"pred": "QQKC",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0748937129974365
+},
+{
+"cond": "G1",
+"i": 37,
+"truth": "HGGE",
+"raw": "HGG E",
+"pred": "HGGE",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.2424817085266113
+},
+{
+"cond": "G1",
+"i": 38,
+"truth": "74BYF",
+"raw": "14B YF",
+"pred": "14BYF",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.0968799591064453
+},
+{
+"cond": "G1",
+"i": 39,
+"truth": "QBGA",
+"raw": "QBDA",
+"pred": "QBDA",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.103907823562622
+},
+{
+"cond": "G1",
+"i": 40,
+"truth": "752J",
+"raw": "252J",
+"pred": "252J",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.21036696434021
+},
+{
+"cond": "G1",
+"i": 41,
+"truth": "CJNXXB",
+"raw": "EINKX B",
+"pred": "EINKXB",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.100020170211792
+},
+{
+"cond": "G1",
+"i": 42,
+"truth": "GQS3K8",
+"raw": "GQS3K8",
+"pred": "GQS3K8",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.280555009841919
+},
+{
+"cond": "G1",
+"i": 43,
+"truth": "NNMA",
+"raw": "N N M A",
+"pred": "NNMA",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1484487056732178
+},
+{
+"cond": "G1",
+"i": 44,
+"truth": "7WW2",
+"raw": "A W 2",
+"pred": "AW2",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.2686679363250732
+},
+{
+"cond": "G1",
+"i": 45,
+"truth": "QTQA2",
+"raw": "Q7QA2",
+"pred": "Q7QA2",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.145677089691162
+},
+{
+"cond": "G1",
+"i": 46,
+"truth": "ZWJDZB",
+"raw": "ZWJDZB",
+"pred": "ZWJDZB",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1049840450286865
+},
+{
+"cond": "G1",
+"i": 47,
+"truth": "FSMT",
+"raw": "FSIT",
+"pred": "FSIT",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.208575963973999
+},
+{
+"cond": "G1",
+"i": 48,
+"truth": "SCNS",
+"raw": "S C N S",
+"pred": "SCNS",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.098616123199463
+},
+{
+"cond": "G1",
+"i": 49,
+"truth": "7F6NH",
+"raw": "1F6VH",
+"pred": "1F6VH",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.2385799884796143
+},
+{
+"cond": "G1",
+"i": 50,
+"truth": "3AUWM",
+"raw": "34UWM",
+"pred": "34UWM",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.084054946899414
+},
+{
+"cond": "G1",
+"i": 51,
+"truth": "ANJPMW",
+"raw": "AJPWW",
+"pred": "AJPWW",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.255967140197754
+},
+{
+"cond": "G1",
+"i": 52,
+"truth": "QDFF",
+"raw": "QOFD",
+"pred": "QOFD",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.104990005493164
+},
+{
+"cond": "G1",
+"i": 53,
+"truth": "UAHK88",
+"raw": "U.A.K.8.8",
+"pred": "UAK88",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.2711830139160156
+},
+{
+"cond": "G1",
+"i": 54,
+"truth": "3SX3",
+"raw": "3*3",
+"pred": "33",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.1489551067352295
+},
+{
+"cond": "G1",
+"i": 55,
+"truth": "U58MZJ",
+"raw": "U58MZ",
+"pred": "U58MZ",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.0976850986480713
+},
+{
+"cond": "G1",
+"i": 56,
+"truth": "VA6S",
+"raw": "VA65",
+"pred": "VA65",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.2116448879241943
+},
+{
+"cond": "G1",
+"i": 57,
+"truth": "CRGZN",
+"raw": "CRGZN",
+"pred": "CRGZN",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0833139419555664
+},
+{
+"cond": "G1",
+"i": 58,
+"truth": "4SCYQ",
+"raw": "A.S.C.Q",
+"pred": "ASCQ",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.2502901554107666
+},
+{
+"cond": "G1",
+"i": 59,
+"truth": "94Q7JS",
+"raw": "9401JS",
+"pred": "9401JS",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.1419341564178467
+},
+{
+"cond": "G1",
+"i": 60,
+"truth": "BJF6SC",
+"raw": "BJE6SC",
+"pred": "BJE6SC",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.1014909744262695
+},
+{
+"cond": "G1",
+"i": 61,
+"truth": "FY8VUC",
+"raw": "FY8NC",
+"pred": "FY8NC",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.2124202251434326
+},
+{
+"cond": "G1",
+"i": 62,
+"truth": "KF5B",
+"raw": "K5B",
+"pred": "K5B",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.074873924255371
+},
+{
+"cond": "G1",
+"i": 63,
+"truth": "NCWZE",
+"raw": "N C WZE",
+"pred": "NCWZE",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.2545859813690186
+},
+{
+"cond": "G1",
+"i": 64,
+"truth": "7M7H6",
+"raw": "1M7H6",
+"pred": "1M7H6",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.0918891429901123
+},
+{
+"cond": "G1",
+"i": 65,
+"truth": "BCJ2VR",
+"raw": "BC2VR",
+"pred": "BC2VR",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.150109052658081
+},
+{
+"cond": "G1",
+"i": 66,
+"truth": "67FED",
+"raw": "61FE0",
+"pred": "61FE0",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.15214204788208
+},
+{
+"cond": "G1",
+"i": 67,
+"truth": "GU2PHU",
+"raw": "GU2P \n",
+"pred": "GU2P",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.1097233295440674
+},
+{
+"cond": "G1",
+"i": 68,
+"truth": "Z2KJQ",
+"raw": "KJO",
+"pred": "KJO",
+"ok": false,
+"cer": 0.6,
+"latency_s": 2.1875598430633545
+},
+{
+"cond": "G1",
+"i": 69,
+"truth": "KW8J9",
+"raw": "K W 8 \u03b8",
+"pred": "KW8",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.113830804824829
+},
+{
+"cond": "G1",
+"i": 70,
+"truth": "M5QFNJ",
+"raw": "H.SQ.FN",
+"pred": "HSQFN",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.1181113719940186
+},
+{
+"cond": "G1",
+"i": 71,
+"truth": "3GJAF4",
+"raw": "3GJA",
+"pred": "3GJA",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.066740036010742
+},
+{
+"cond": "G1",
+"i": 72,
+"truth": "CUBW2",
+"raw": "C U B W 2",
+"pred": "CUBW2",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.130898952484131
+},
+{
+"cond": "G1",
+"i": 73,
+"truth": "ZDWZ",
+"raw": "ZWZ",
+"pred": "ZWZ",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.0785698890686035
+},
+{
+"cond": "G1",
+"i": 74,
+"truth": "RV786Y",
+"raw": "RV186Y",
+"pred": "RV186Y",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.079437732696533
+},
+{
+"cond": "G1",
+"i": 75,
+"truth": "EFCB77",
+"raw": "BB77",
+"pred": "BB77",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.076385974884033
+},
+{
+"cond": "G1",
+"i": 76,
+"truth": "997GT5",
+"raw": "997GT S",
+"pred": "997GTS",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.11499285697937
+},
+{
+"cond": "G1",
+"i": 77,
+"truth": "PNR55",
+"raw": "PNRS",
+"pred": "PNRS",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.054306745529175
+},
+{
+"cond": "G1",
+"i": 78,
+"truth": "3FUJB",
+"raw": "AUB",
+"pred": "AUB",
+"ok": false,
+"cer": 0.6,
+"latency_s": 2.1828010082244873
+},
+{
+"cond": "G1",
+"i": 79,
+"truth": "7NE2",
+"raw": "INE2",
+"pred": "INE2",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.1035640239715576
+},
+{
+"cond": "G1",
+"i": 80,
+"truth": "ND3EA",
+"raw": "ND3EA",
+"pred": "ND3EA",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0903878211975098
+},
+{
+"cond": "G1",
+"i": 81,
+"truth": "PA6Y",
+"raw": "PABY",
+"pred": "PABY",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.0839600563049316
+},
+{
+"cond": "G1",
+"i": 82,
+"truth": "66KP",
+"raw": "65.AP",
+"pred": "65AP",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.1075279712677
+},
+{
+"cond": "G1",
+"i": 83,
+"truth": "MTTE",
+"raw": "MTE",
+"pred": "MTE",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.057387113571167
+},
+{
+"cond": "G1",
+"i": 84,
+"truth": "VZ7U",
+"raw": "V<U",
+"pred": "VU",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.069575071334839
+},
+{
+"cond": "G1",
+"i": 85,
+"truth": "P5VGY6",
+"raw": "P.SV.GY.6",
+"pred": "PSVGY6",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.1407828330993652
+},
+{
+"cond": "G1",
+"i": 86,
+"truth": "666T",
+"raw": "666T",
+"pred": "666T",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0900189876556396
+},
+{
+"cond": "G1",
+"i": 87,
+"truth": "EEKXUB",
+"raw": "EKXU",
+"pred": "EKXU",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.187816858291626
+},
+{
+"cond": "G1",
+"i": 88,
+"truth": "A9WZ",
+"raw": "A9W7",
+"pred": "A9W7",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.0918679237365723
+},
+{
+"cond": "G1",
+"i": 89,
+"truth": "HV6F",
+"raw": "HV6F",
+"pred": "HV6F",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.107182264328003
+},
+{
+"cond": "G1",
+"i": 90,
+"truth": "8NPDN",
+"raw": "8NDON",
+"pred": "8NDON",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.2007720470428467
+},
+{
+"cond": "G1",
+"i": 91,
+"truth": "DUVPG",
+"raw": "A V P G",
+"pred": "AVPG",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.085690975189209
+},
+{
+"cond": "G1",
+"i": 92,
+"truth": "PGZ4",
+"raw": "PGAZ",
+"pred": "PGAZ",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.0950629711151123
+},
+{
+"cond": "G1",
+"i": 93,
+"truth": "3KWA",
+"raw": "3KW4",
+"pred": "3KW4",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.066312074661255
+},
+{
+"cond": "G1",
+"i": 94,
+"truth": "JXAQU",
+"raw": "AXXO",
+"pred": "AXXO",
+"ok": false,
+"cer": 0.8,
+"latency_s": 2.0711967945098877
+},
+{
+"cond": "G1",
+"i": 95,
+"truth": "YXZV7B",
+"raw": "XKB2B",
+"pred": "XKB2B",
+"ok": false,
+"cer": 0.6666666666666666,
+"latency_s": 2.22151780128479
+},
+{
+"cond": "G1",
+"i": 96,
+"truth": "NG76G",
+"raw": "NG>6.G",
+"pred": "NG6G",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.1018738746643066
+},
+{
+"cond": "G1",
+"i": 97,
+"truth": "GNJJAJ",
+"raw": "GNJAZ",
+"pred": "GNJAZ",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.0916900634765625
+},
+{
+"cond": "G1",
+"i": 98,
+"truth": "G79U",
+"raw": "G79U",
+"pred": "G79U",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.137439250946045
+},
+{
+"cond": "G1",
+"i": 99,
+"truth": "C3WA34",
+"raw": "63WA34",
+"pred": "63WA34",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.18160080909729
+},
+{
+"cond": "G1",
+"i": 100,
+"truth": "KUW3",
+"raw": "KUW3",
+"pred": "KUW3",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.084599018096924
+},
+{
+"cond": "G1",
+"i": 101,
+"truth": "SK3FC",
+"raw": "SK3FC",
+"pred": "SK3FC",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0989511013031006
+},
+{
+"cond": "G1",
+"i": 102,
+"truth": "HECSMH",
+"raw": "HECSNH",
+"pred": "HECSNH",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.211965322494507
+},
+{
+"cond": "G1",
+"i": 103,
+"truth": "DY77H9",
+"raw": "DZH9",
+"pred": "DZH9",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.0732438564300537
+},
+{
+"cond": "G1",
+"i": 104,
+"truth": "PWKH7",
+"raw": "P.W.K.H.7",
+"pred": "PWKH7",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.192934036254883
+},
+{
+"cond": "G1",
+"i": 105,
+"truth": "JJVYG",
+"raw": "J V G",
+"pred": "JVG",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.070530652999878
+},
+{
+"cond": "G1",
+"i": 106,
+"truth": "TTS4V",
+"raw": "TISV",
+"pred": "TISV",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.058481216430664
+},
+{
+"cond": "G1",
+"i": 107,
+"truth": "XCED",
+"raw": "XCEO",
+"pred": "XCEO",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.091780185699463
+},
+{
+"cond": "G1",
+"i": 108,
+"truth": "68R2",
+"raw": "68R2",
+"pred": "68R2",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0932672023773193
+},
+{
+"cond": "G1",
+"i": 109,
+"truth": "98BW23",
+"raw": "988W2:3",
+"pred": "988W23",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.1310760974884033
+},
+{
+"cond": "G1",
+"i": 110,
+"truth": "9TM5",
+"raw": "9T M5",
+"pred": "9TM5",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1041061878204346
+},
+{
+"cond": "G1",
+"i": 111,
+"truth": "VRYHF",
+"raw": "VRNF",
+"pred": "VRNF",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.0771749019622803
+},
+{
+"cond": "G1",
+"i": 112,
+"truth": "93GR",
+"raw": "93G R",
+"pred": "93GR",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0846810340881348
+},
+{
+"cond": "G1",
+"i": 113,
+"truth": "2XMA",
+"raw": "2XMA",
+"pred": "2XMA",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0629241466522217
+},
+{
+"cond": "G1",
+"i": 114,
+"truth": "5YU5CA",
+"raw": "S Y U 5 CA",
+"pred": "SYU5CA",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.247321844100952
+},
+{
+"cond": "G1",
+"i": 115,
+"truth": "H7Q4T",
+"raw": "H Z O A T",
+"pred": "HZOAT",
+"ok": false,
+"cer": 0.6,
+"latency_s": 2.113311290740967
+},
+{
+"cond": "G1",
+"i": 116,
+"truth": "PY7Y",
+"raw": "P.Y1.Y",
+"pred": "PY1Y",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.12263822555542
+},
+{
+"cond": "G1",
+"i": 117,
+"truth": "MJBE8J",
+"raw": "MBE8",
+"pred": "MBE8",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.213124990463257
+},
+{
+"cond": "G1",
+"i": 118,
+"truth": "FWSS4D",
+"raw": "FNS50",
+"pred": "FNS50",
+"ok": false,
+"cer": 0.6666666666666666,
+"latency_s": 2.093008279800415
+},
+{
+"cond": "G1",
+"i": 119,
+"truth": "63XDV",
+"raw": "630V",
+"pred": "630V",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.0841081142425537
+},
+{
+"cond": "G1",
+"i": 120,
+"truth": "9XRS",
+"raw": "9XR S",
+"pred": "9XRS",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0777969360351562
+},
+{
+"cond": "G1",
+"i": 121,
+"truth": "NW3CFR",
+"raw": "W3CFD",
+"pred": "W3CFD",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.090174913406372
+},
+{
+"cond": "G1",
+"i": 122,
+"truth": "S59X",
+"raw": "59X",
+"pred": "59X",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.0687947273254395
+},
+{
+"cond": "G1",
+"i": 123,
+"truth": "4DYU",
+"raw": "4DYU",
+"pred": "4DYU",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0743041038513184
+},
+{
+"cond": "G1",
+"i": 124,
+"truth": "JF7NC7",
+"raw": "FNC:1",
+"pred": "FNC1",
+"ok": false,
+"cer": 0.5,
+"latency_s": 2.1056180000305176
+},
+{
+"cond": "G1",
+"i": 125,
+"truth": "GJDV",
+"raw": "GDON",
+"pred": "GDON",
+"ok": false,
+"cer": 0.75,
+"latency_s": 2.05061411857605
+},
+{
+"cond": "G1",
+"i": 126,
+"truth": "67RU2",
+"raw": "67R12",
+"pred": "67R12",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.1679298877716064
+},
+{
+"cond": "G1",
+"i": 127,
+"truth": "UNY9B",
+"raw": "U9B",
+"pred": "U9B",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.1503102779388428
+},
+{
+"cond": "G1",
+"i": 128,
+"truth": "FZGJ7",
+"raw": "J1L",
+"pred": "J1L",
+"ok": false,
+"cer": 1.0,
+"latency_s": 2.0742740631103516
+},
+{
+"cond": "G1",
+"i": 129,
+"truth": "C3NU",
+"raw": "GNVU",
+"pred": "GNVU",
+"ok": false,
+"cer": 0.75,
+"latency_s": 2.0748379230499268
+},
+{
+"cond": "G1",
+"i": 130,
+"truth": "URFXN",
+"raw": "U.R.FX.N",
+"pred": "URFXN",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.1394619941711426
+},
+{
+"cond": "G1",
+"i": 131,
+"truth": "P6Y9",
+"raw": "P6Y9",
+"pred": "P6Y9",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.106851100921631
+},
+{
+"cond": "G1",
+"i": 132,
+"truth": "B3D2C",
+"raw": "B3D2C",
+"pred": "B3D2C",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0914688110351562
+},
+{
+"cond": "G1",
+"i": 133,
+"truth": "8E8VD7",
+"raw": "868/D7",
+"pred": "868D7",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.1265511512756348
+},
+{
+"cond": "G1",
+"i": 134,
+"truth": "MRBNK8",
+"raw": "H.R.BK.8",
+"pred": "HRBK8",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.1330270767211914
+},
+{
+"cond": "G1",
+"i": 135,
+"truth": "H8DBU",
+"raw": "H800U",
+"pred": "H800U",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.100339889526367
+},
+{
+"cond": "G1",
+"i": 136,
+"truth": "6EVYW",
+"raw": "6EWW",
+"pred": "6EWW",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.239439010620117
+},
+{
+"cond": "G1",
+"i": 137,
+"truth": "VFNW",
+"raw": "VNW",
+"pred": "VNW",
+"ok": false,
+"cer": 0.25,
+"latency_s": 2.082388162612915
+},
+{
+"cond": "G1",
+"i": 138,
+"truth": "BCAS",
+"raw": "BCAS",
+"pred": "BCAS",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.086453914642334
+},
+{
+"cond": "G1",
+"i": 139,
+"truth": "HNEDN",
+"raw": "HNEON",
+"pred": "HNEON",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.100969076156616
+},
+{
+"cond": "G1",
+"i": 140,
+"truth": "64YNCY",
+"raw": "64YNCD",
+"pred": "64YNCD",
+"ok": false,
+"cer": 0.16666666666666666,
+"latency_s": 2.105104923248291
+},
+{
+"cond": "G1",
+"i": 141,
+"truth": "79WJ",
+"raw": "79WJ",
+"pred": "79WJ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0900747776031494
+},
+{
+"cond": "G1",
+"i": 142,
+"truth": "Z6ERW",
+"raw": "15E R W",
+"pred": "15ERW",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.1127607822418213
+},
+{
+"cond": "G1",
+"i": 143,
+"truth": "84NAT",
+"raw": "8ANAT",
+"pred": "8ANAT",
+"ok": false,
+"cer": 0.2,
+"latency_s": 2.077846050262451
+},
+{
+"cond": "G1",
+"i": 144,
+"truth": "4QXK9",
+"raw": "4X9",
+"pred": "4X9",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.0730690956115723
+},
+{
+"cond": "G1",
+"i": 145,
+"truth": "G56E",
+"raw": "G56E",
+"pred": "G56E",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.083638906478882
+},
+{
+"cond": "G1",
+"i": 146,
+"truth": "4X9W2P",
+"raw": "A9W2P",
+"pred": "A9W2P",
+"ok": false,
+"cer": 0.3333333333333333,
+"latency_s": 2.1102049350738525
+},
+{
+"cond": "G1",
+"i": 147,
+"truth": "RY4JE",
+"raw": "RAJE",
+"pred": "RAJE",
+"ok": false,
+"cer": 0.4,
+"latency_s": 2.069276809692383
+},
+{
+"cond": "G1",
+"i": 148,
+"truth": "MREA",
+"raw": "MREA",
+"pred": "MREA",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0615921020507812
+},
+{
+"cond": "G1",
+"i": 149,
+"truth": "E2RZ",
+"raw": "E2RZ",
+"pred": "E2RZ",
+"ok": true,
+"cer": 0.0,
+"latency_s": 2.0819129943847656
+}
+]

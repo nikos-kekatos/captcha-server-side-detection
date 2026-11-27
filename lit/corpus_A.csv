@@ -1,0 +1,57 @@
+key,year,captcha_type,role,ai_family,headline_result,source_of_number,verified_via
+vonahn2003captcha,2003,general,defence,none,Defines CAPTCHA via hard AI problems; no solving figure,n/a,crossref
+mori2003gimpy,2003,text,attack,other,shape-context matching identifies EZ-Gimpy word 92%; requisite 3 words in Gimpy 33%,abstract,crossref
+chellapilla2004nips,2004,text,attack,segmentation+classifier,most HIPs pure recognition and easily broken by ML; segmentation is the most effective way to confuse ML (qualitative),abstract,publisher
+chellapilla2005hip,2005,text,defence,segmentation+classifier,segmentation-based HIP design (no figure in accessible abstract),n/a,crossref
+yan2007acsac,2007,text,attack,segmentation+classifier,Captchaservice.org schemes broken with near 100% success rate,abstract,crossref
+yan2008ccs,2008,text,attack,segmentation+classifier,segmentation success >90% on MSN scheme; overall break >60% (~80 ms/segmentation),abstract (Newcastle eprint TR version),crossref
+tam2008audio,2008,audio,attack,segmentation+classifier,AdaBoost/SVM/k-NN reach accuracy up to 71% on audio CAPTCHAs of popular sites,abstract,publisher
+bursztein2009decaptcha,2009,audio,attack,segmentation+classifier,Decaptcha breaks 75% of eBay audio captchas,abstract,publisher
+bursztein2010humans,2010,general,measurement,none,"318000 captchas from 21 schemes (13 image, 8 audio) solved by MTurk and solving service; audio hardest for humans",abstract,crossref
+bursztein2011audio,2011,audio,attack,segmentation+classifier,"per-captcha precision 89% Authorize, 41% Digg, 82% eBay, 48.9% Microsoft, 45.45% Yahoo, 1.5% reCAPTCHA",Section (results) of IEEE S&P PDF,crossref
+bursztein2011textccs,2011,text,measurement,segmentation+classifier,13 of 15 schemes from popular sites vulnerable to automated attack,abstract,crossref
+gao2013hollow,2013,text,attack,segmentation+classifier,"breaks whole family of hollow CAPTCHAs (Yahoo, Tencent, Sina, China Mobile, Baidu); no figure in abstract",abstract,crossref
+goodfellow2014multidigit,2013,text,attack,CNN,99.8% accuracy on hardest category of reCAPTCHA; >96% SVHN full numbers,abstract,arxiv
+bursztein2014endnigh,2014,text,attack,other,"single-step joint segmentation+recognition: Yahoo 5.33%, ReCaptcha 33.34%, Baidu 38.68%, CNN 51.09%",abstract,publisher
+meutzner2014acsac,2014,audio,attack,ASR,ASR-based attack on acoustic CAPTCHAs (no figure in accessible abstract),n/a,crossref
+meutzner2015chi,2015,audio,defence,ASR,audio CAPTCHA far more robust to automated attack than reported for current schemes (qualitative),abstract,crossref
+gao2016ndss,2016,text,attack,segmentation+classifier,"Log-Gabor attack: success 5% to 77% across Google, Microsoft, Yahoo!, Amazon etc.; <15 s per puzzle",abstract,crossref
+gao2016iet,2016,text,attack,segmentation+classifier,19 of top 20 Alexa sites broken incl. two ReCAPTCHA versions; success 12% to 88.8% (Yandex 0%),abstract,crossref
+george2017science,2017,text,attack,generative-model,RCN outperforms DNNs on scene-text benchmark while 300-fold more data efficient; breaks text CAPTCHAs without CAPTCHA-specific heuristics,abstract,crossref
+bock2017uncaptcha,2017,audio,attack,ASR,450+ live reCaptcha audio challenges solved with 85.15% accuracy in 5.42 s average,abstract,publisher
+solanki2017aisec,2017,audio,attack,ASR,AudioBreaker (OTS speech services) breaks all 7 schemes; up to 98.3% vs Google ReCaptcha; audio attacks 13.1%-27.5% more accurate than image attacks,abstract,crossref
+osadchy2017deepcaptcha,2017,image,defence,adversarial-examples,immutable adversarial noise CAPTCHA (DeepCAPTCHA); high security and good usability (qualitative),abstract,crossref
+ye2018ccs,2018,text,attack,GAN,"fine-tuned solver: Sohu 92%, eBay 86.6%, Microsoft 69.6%, Google 3%; 33 schemes; 0.05 s/captcha",Table 2 and abstract,crossref
+tang2018tifs,2018,text,attack,CNN,generic DL attack on top-50 site Roman-character schemes and 3 Chinese schemes; proposes SACaptcha (no figure in abstract),abstract,crossref
+aiken2018deepcrack,2018,audio,attack,ASR,DeepSpeech-based model solves SimpleCaptcha audio with 98.8% accuracy in 1.25 s,abstract,crossref
+zi2020tifs,2020,text,attack,CNN-CTC/CRNN,CNN + attention RNN end-to-end attack breaks schemes of Alexa top-50 sites without preprocessing (no figure in abstract),abstract,crossref
+ye2020tops,2020,text,attack,GAN,journal version of GAN solver over 33 schemes; adds imperceptible-perturbation countermeasure (no figure in abstract),abstract,crossref
+tian2020www,2020,text,attack,other,"unsupervised background removal + representation learning; fewer labels, beats fully-supervised baseline (no figure in abstract)",abstract,crossref
+noury2020deepcaptcha,2020,text,attack,CNN,98.94% numerical and 98.31% alphanumerical cracking accuracy on 500000-sample synthetic set,abstract,arxiv
+dionysiou2020sok,2020,text,survey,other,systematic classification of ML text-CAPTCHA solvers; ML-only classifier not sufficient,abstract,crossref
+kwon2020robust,2020,text,defence,adversarial-examples,0% recognition with FGSM eps=0.15 and I-FGSM; 45% with DeepFool (150 iters),abstract,crossref
+li2021cyclegan,2021,text,attack,GAN,cycle-GAN synthesis + CRNN + active transfer learning cracks schemes of 10 popular websites (no figure in abstract),abstract,crossref
+wang2021fastsolver,2021,text,attack,CNN,few-sample fast solver (no figure in accessible abstract),n/a,crossref
+guerar2021csur,2021,general,survey,none,20-year CAPTCHA survey; new classification; attacks per category,abstract,crossref
+hitaj2021capture,2021,image,defence,adversarial-examples,CAPTURE adversarial-example CAPTCHA thwarts ML solvers while easy for humans (qualitative),abstract,crossref
+shi2022adversarial,2022,text,defence,adversarial-examples,"aCAPTCHA: 12 preprocessing, 9 attacks, 4 baseline + 8 new adversarial generation methods; text and image",abstract,crossref
+hossen2022aaecaptcha,2022,audio,defence,adversarial-examples,audio adversarial CAPTCHA secure vs 5 DNN ASR systems and 3 commercial STT services,abstract,crossref
+deng2022threee,2022,text,attack,transformer,semi-supervised (improved FixMatch) encoder-decoder attention solver; outperforms SOTA by large margin (no figure in abstract),abstract,publisher
+zhang2022dwgan,2022,text,attack,GAN,DW-GAN: over 94.4% success on real-world dark web CAPTCHA dataset; solves DNM CAPTCHA in <=3 attempts,abstract,crossref
+shao2022rtc,2022,text,defence,adversarial-examples,Robust Text CAPTCHA failure rate lower than one millionth against KNN/SVM/RF/DNN/OCR solvers,abstract,crossref
+abdullah2023attacks,2023,audio,defence,adversarial-examples,P(transcription)=4x10^-5; P(evasion)=1.77x10^-4; ~4 orders of magnitude harder to crack,abstract,crossref
+searles2023empirical,2023,general,measurement,none,1400 participants solved 14000 deployed CAPTCHAs; solving time and perception not always correlated,abstract,publisher
+alsuhibany2023survey,2023,general,survey,adversarial-examples,first comprehensive survey of adversarial perturbations and attacks on CAPTCHAs,abstract,crossref
+xu2023advsurvey,2023,general,survey,adversarial-examples,classification of adversarial CAPTCHAs and generation methods; future directions,abstract,arxiv
+tariq2023survey,2023,general,survey,none,survey of CAPTCHA types and breaking techniques based on over 200 studies since 2003,abstract,arxiv
+hoang2023ensolver,2023,text,attack,CNN,deep-ensemble uncertainty detects and skips OOD CAPTCHAs; theoretical bounds (no figure in abstract),abstract,arxiv
+khatavkar2024ctc,2024,text,attack,CNN-CTC/CRNN,99.80% character-level and 95% word-level accuracy on public captcha dataset,abstract,arxiv
+wan2024adaptive,2024,text,attack,CNN-CTC/CRNN,vs Deep-CAPTCHA: ~70% fewer parameters and >10 percentage points higher accuracy on two datasets,abstract,crossref
+zhang2024transformer,2024,text,attack,transformer,transformer end-to-end attack with triplet deep attention (no figure in accessible abstract),n/a,crossref
+xu2024boosting,2024,text,defence,adversarial-examples,transferable adversarial CAPTCHAs (no figure in accessible abstract),n/a,crossref
+deng2025oedipus,2025,cognitive,attack,VLM/LLM,DSL + CoT decomposition: average success 63.5% on reasoning CAPTCHAs,abstract (arXiv v1),crossref
+aubry2025audio,2025,audio,attack,ASR,"Google audio reCAPTCHA bypassed in one second for fastest ASR models (Whisper, Azure, Deepgram etc.)",abstract,crossref
+wu2025mcabench,2025,general,measurement,VLM/LLM,"unified multimodal benchmark (text, image, click, slider, logic) with fine-tuned VLM cracking agents (no headline figure in abstract)",abstract,arxiv
+wang2025cognition,2025,general,measurement,VLM/LLM,7 MLLMs on 18 CAPTCHA types; hardening cut SOTA MLLM success from over 95% to 0%,abstract,arxiv
+ding2026illusion,2026,audio,defence,VLM/LLM,most of 7 deployed audio CAPTCHAs solved by LALM/ASR; IllusionAudio defeats all tested attacks with 100% human pass rate,abstract,arxiv
+roshanbin2013survey,2013,general,survey,none,"survey and analysis of CAPTCHA approaches (text, image, audio)",n/a,publisher
