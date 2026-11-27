@@ -68,6 +68,11 @@ python corpus.py; python plots.py; python macros.py; python macros_review1027.py
 The experiment code, the literature searches and the coding of the corpus were produced with a generative AI
 assistant (Anthropic's Claude) under the authors' direction, as stated in the paper's acknowledgment.
 
+## Funding
+
+This work has received funding from the European Union's Horizon Europe research and innovation programme
+under grant agreement No 101309530 (CyberINTEL-X).
+
 ## Licence
 
 Code: MIT (`LICENSE`). Results, corpus and documentation: CC BY 4.0.
